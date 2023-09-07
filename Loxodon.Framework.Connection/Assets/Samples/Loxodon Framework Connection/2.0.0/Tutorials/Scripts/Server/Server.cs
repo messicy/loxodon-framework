@@ -146,7 +146,10 @@ namespace Loxodon.Framework.Examples
                             if(request.CommandID==0)
                                 response.Content = Encoding.UTF8.GetBytes("pong");
                             else
-                                response.Content = Encoding.UTF8.GetBytes("The server responds to the client");
+                            {
+                                //response.Content = Encoding.UTF8.GetBytes("The server responds to the client");
+                                response.Content = request.Content;
+                            }
 
                             //写入一条消息
                             await encoder.Encode(response, writer);

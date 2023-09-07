@@ -30,6 +30,9 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading;
 using UnityEngine;
+using Google.Protobuf.Examples.AddressBook;
+using System.IO;
+using Google.Protobuf;
 
 namespace Loxodon.Framework.Examples
 {
@@ -154,6 +157,8 @@ namespace Loxodon.Framework.Examples
                 Response response = await connector.Send(request);
                 Debug.LogFormat("The client received a response message successfully,Message:{0}", response);
 
+                Person john = Person.Parser.ParseFrom(response.Content);
+                Debug.LogFormat("get person:{0}, {1} ", john.Name, john.Email);
             }
             catch (Exception e)
             {
@@ -229,7 +234,16 @@ namespace Loxodon.Framework.Examples
                 Request request = new Request();
                 request.CommandID = 20;
                 request.ContentType = 0;
-                request.Content = Encoding.UTF8.GetBytes("this is a request.");
+                Person person = new Person();
+                person.Name = "test";
+                person.Email = "111";
+
+                using (var output = new MemoryStream())
+                {
+                    person.WriteTo(output);
+                    request.Content = output.ToArray();
+                }
+                //request.Content = Encoding.UTF8.GetBytes("this is a request.");
                 Send(request);
             }
 
