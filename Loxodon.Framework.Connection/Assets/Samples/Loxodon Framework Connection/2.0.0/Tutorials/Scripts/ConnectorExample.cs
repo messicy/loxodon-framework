@@ -50,15 +50,15 @@ namespace Loxodon.Framework.Examples
         {
             //初始化服务器
             server = new Server(port);
-
+            return;
             //开启TLS加密，这是可选的，可用不设置
-            TextAsset textAsset = Resources.Load<TextAsset>("vovgou.pfx");
-            X509Certificate2 cert = new X509Certificate2(textAsset.bytes, "123456");
-            server.Secure(true, cert, (sender, certificate, chain, sslPolicyErrors) =>
-             {
-                 //服务器设置不要求客户端证书，服务器方不校验客户端的协议，直接返回true
-                 return true;
-             });
+            //TextAsset textAsset = Resources.Load<TextAsset>("vovgou.pfx");
+            //X509Certificate2 cert = new X509Certificate2(textAsset.bytes, "123456");
+            //server.Secure(true, cert, (sender, certificate, chain, sslPolicyErrors) =>
+            // {
+            //     //服务器设置不要求客户端证书，服务器方不校验客户端的协议，直接返回true
+            //     return true;
+            // });
 
             //----------------------
 
@@ -70,17 +70,17 @@ namespace Loxodon.Framework.Examples
             channel.IsBigEndian = true;//默认使用大端字节序，一般网络字节流用大端
 
             //如果服务器没有开启TLS加密，可用不设置
-            channel.Secure(true, "vovgou.com", null, (sender, certificate, chain, sslPolicyErrors) =>
-             {
-                 //客户端方校验服务器端的自签名协议
-                 if (sslPolicyErrors == SslPolicyErrors.None)
-                     return true;
+            //channel.Secure(true, "vovgou.com", null, (sender, certificate, chain, sslPolicyErrors) =>
+            // {
+            //     //客户端方校验服务器端的自签名协议
+            //     if (sslPolicyErrors == SslPolicyErrors.None)
+            //         return true;
 
-                 if (certificate != null && certificate.GetCertHashString() == "3C33D870E7826E9E83B4476D6A6122E497A6D282")
-                     return true;
+            //     if (certificate != null && certificate.GetCertHashString() == "3C33D870E7826E9E83B4476D6A6122E497A6D282")
+            //         return true;
 
-                 return false;
-             });
+            //     return false;
+            // });
 
             //HandshakeHandler 不要放在Channel中，请放入Connector中，这样更合理
             IHandshakeHandler handshakeHandler = new HandshakeHandler();
@@ -220,6 +220,8 @@ namespace Loxodon.Framework.Examples
                 else
                     server.Start();
             }
+
+            return;
 
             if (GUI.Button(new Rect(x, y + i++ * (height + padding), width, height), connector.Connected ? "Disconnect" : "Connect"))
             {

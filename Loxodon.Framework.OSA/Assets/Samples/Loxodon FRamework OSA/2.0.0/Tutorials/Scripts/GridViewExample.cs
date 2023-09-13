@@ -22,7 +22,6 @@
  * SOFTWARE.
  */
 
-using Com.TheFallenGames.OSA.Demos.Common;
 using Loxodon.Framework.Binding;
 using Loxodon.Framework.Commands;
 using Loxodon.Framework.Contexts;
@@ -68,7 +67,7 @@ namespace Loxodon.Framework.Tutorials.OSA
             if (items != null && items.Count > 0)
             {
                 var model = items[0];
-                model.Color = DemosUtil.GetRandomColor();
+                model.Color = Color.black;
             }
         }
 

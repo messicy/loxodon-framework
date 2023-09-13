@@ -103,7 +103,7 @@ namespace Loxodon.Framework.Examples
                         try
                         {
                             SslStream sslStream = new SslStream(client.GetStream(), false, new RemoteCertificateValidationCallback(ValidateClientCertificate));
-                            await sslStream.AuthenticateAsServerAsync(cert, false, SslProtocols.Tls | SslProtocols.Ssl3 | SslProtocols.Ssl2, false);
+                            await sslStream.AuthenticateAsServerAsync(cert, false, SslProtocols.None, false);
                             stream = sslStream;
                         }
                         catch (System.Exception e)
