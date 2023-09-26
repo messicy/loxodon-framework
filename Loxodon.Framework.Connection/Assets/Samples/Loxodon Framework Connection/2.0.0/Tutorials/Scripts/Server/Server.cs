@@ -22,6 +22,7 @@
  * SOFTWARE.
  */
 
+using Google.Protobuf;
 using Loxodon.Framework.Examples.Messages;
 using System.Collections.Generic;
 using System.IO;
@@ -32,6 +33,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using Texas.Protocol;
 using UnityEngine;
 using BinaryReader = Loxodon.Framework.Net.Connection.BinaryReader;
 using BinaryWriter = Loxodon.Framework.Net.Connection.BinaryWriter;
@@ -141,14 +143,34 @@ namespace Loxodon.Framework.Examples
                             Response response = new Response();
                             response.Status = 200;
                             response.Sequence = request.Sequence;//必须与请求配对
-                            response.ContentType = 0;
+                            response.ContentType = 1;
 
-                            if(request.CommandID==0)
+                            if (request.CommandID == 0)
                                 response.Content = Encoding.UTF8.GetBytes("pong");
                             else
                             {
                                 //response.Content = Encoding.UTF8.GetBytes("The server responds to the client");
-                                response.Content = request.Content;
+                                //response.Content = request.Content;
+
+                                //这里写假数据调试
+                                switch (request.CommandID)
+                                {
+                                    case 1:
+                                        EnterRoomRSP rsp = new EnterRoomRSP();
+                                        rsp.Roomid = 100;
+
+                                        byte[] bytes = null;
+                                        using (MemoryStream rspStream = new MemoryStream())
+                                        {
+                                            rsp.WriteTo(rspStream);
+                                            bytes = rspStream.ToArray();
+                                        }
+
+                                        response.Content = bytes;
+                                        break;
+
+                                    default: break;
+                                }
                             }
 
                             //写入一条消息
