@@ -52,6 +52,9 @@ namespace Loxodon.Framework.Examples
         List<TcpClient> clients = new List<TcpClient>();
         bool started = false;
         int port;
+        private BinaryWriter writer;
+        private DefaultEncoder encoder;
+
         public Server(int port)
         {
             this.port = port;
@@ -120,11 +123,11 @@ namespace Loxodon.Framework.Examples
                     }
 
                     BinaryReader reader = new BinaryReader(stream, false);
-                    BinaryWriter writer = new BinaryWriter(stream, false);
+                    writer = new BinaryWriter(stream, false);
 
                     //这里服务器共用了客户端的编码解码器
                     DefaultDecoder decoder = new DefaultDecoder();
-                    DefaultEncoder encoder = new DefaultEncoder();
+                    encoder = new DefaultEncoder();
 
                     while (true)
                     {
@@ -176,6 +179,7 @@ namespace Loxodon.Framework.Examples
                             //写入一条消息
                             await encoder.Encode(response, writer);
                             Debug.LogFormat("Server Sent:{0}", response.ToString());
+
                             continue;
                         }
 
@@ -223,6 +227,28 @@ namespace Loxodon.Framework.Examples
             return false;
         }
 
+        public async void PushNotification1()
+        {
+            Notification response = new Notification();
+            response.CommandID = 2;
+            response.ContentType = 1;
+
+            RoundStartBRC roundStartBRC = new RoundStartBRC();
+            roundStartBRC.CurBlind = 3;
+
+            byte[] bytes = null;
+            using (MemoryStream rspStream = new MemoryStream())
+            {
+                roundStartBRC.WriteTo(rspStream);
+                bytes = rspStream.ToArray();
+            }
+
+            response.Content = bytes;
+
+            await encoder.Encode(response, writer);
+
+            Debug.LogFormat("Server Push Notification:{0}", response.ToString());
+        }
 
         public void Stop()
         {

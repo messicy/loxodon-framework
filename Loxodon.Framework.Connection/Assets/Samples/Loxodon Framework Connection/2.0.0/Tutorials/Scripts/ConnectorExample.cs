@@ -33,6 +33,7 @@ using UnityEngine;
 using Google.Protobuf.Examples.AddressBook;
 using System.IO;
 using Google.Protobuf;
+using System.Runtime.InteropServices;
 
 namespace Loxodon.Framework.Examples
 {
@@ -221,15 +222,14 @@ namespace Loxodon.Framework.Examples
                     server.Start();
             }
 
+
+            if (GUI.Button(new Rect(x, y + i++ * (height + padding), width, height), "Push1"))
+            {
+                server.PushNotification1();
+            }
+
             return;
 
-            if (GUI.Button(new Rect(x, y + i++ * (height + padding), width, height), connector.Connected ? "Disconnect" : "Connect"))
-            {
-                if (connector.Connected)
-                    _ = connector.Disconnect();
-                else
-                    Connect();
-            }
 
             if (GUI.Button(new Rect(x, y + i++ * (height + padding), width, height), "Send Request"))
             {
