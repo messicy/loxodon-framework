@@ -112,8 +112,8 @@ namespace Texas.Protocol {
             "ABIwCiNHSUZUQkFHX1JFVF9DT0RFX0RJQU1PTkRfTk9UX0VOT1VHSBD/////",
             "//////8BEisKHkdJRlRCQUdfUkVUX0NPREVfUEFSQU1fSU5WQUxJRBD+////",
             "//////8BEiQKF0dJRlRCQUdfUkVUX0NPREVfRkFJTEVEEP3//////////wES",
-            "JwoaR0lGVEJBR19SRVRfQ09ERV9QVVJDSEFTRUQQ/P//////////AUIRqgIO",
-            "VGV4YXMuUHJvdG9jb2xiBnByb3RvMw=="));
+            "JwoaR0lGVEJBR19SRVRfQ09ERV9QVVJDSEFTRUQQ/P//////////AUIaWgcv",
+            "cGJwcGdvqgIOVGV4YXMuUHJvdG9jb2xiBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.VipReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.GiftBagType), typeof(global::Texas.Protocol.PurchaseGiftBagRetCode), }, null, new pbr::GeneratedClrTypeInfo[] {

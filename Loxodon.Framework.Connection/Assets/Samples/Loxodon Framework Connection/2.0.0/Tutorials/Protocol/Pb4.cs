@@ -284,8 +284,8 @@ namespace Texas.Protocol {
             "dHVzGAEgASgFSACIAQFCCQoHX3N0YXR1cyI6ChxBbm5pdmVyc2FyeU1haWxC",
             "aW5kUmV3YXJkUlNQEhEKBGNvZGUYASABKAVIAIgBAUIHCgVfY29kZSpWCgtC",
             "b21iUG90VHlwZRIVChFOT05FX0JPTUJQT1RfVFlQRRAAEhYKEkhBTkRTX0JP",
-            "TUJQT1RfVFlQRRABEhgKFFNFQ09ORFNfQk9NQlBPVF9UWVBFEAJCEaoCDlRl",
-            "eGFzLlByb3RvY29sYgZwcm90bzM="));
+            "TUJQT1RfVFlQRRABEhgKFFNFQ09ORFNfQk9NQlBPVF9UWVBFEAJCGloHL3Bi",
+            "cHBnb6oCDlRleGFzLlByb3RvY29sYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, global::Texas.Protocol.Pb1Reflection.Descriptor, global::Texas.Protocol.Pb3Reflection.Descriptor, global::Texas.Protocol.PineReflection.Descriptor, global::Texas.Protocol.EvchopReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.BombPotType), }, null, new pbr::GeneratedClrTypeInfo[] {

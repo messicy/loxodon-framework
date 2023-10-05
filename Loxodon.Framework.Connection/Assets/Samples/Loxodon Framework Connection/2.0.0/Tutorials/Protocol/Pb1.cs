@@ -215,45 +215,45 @@ namespace Texas.Protocol {
             "b29tX25hbWVCEAoOX2RlZmF1bHRfYnV5aW5CBgoEX3RpZEIPCg1fcGFzc3dk",
             "X2xpbWl0QgkKB19wYXNzd2RCCwoJX2xlYWd1ZWlkQhEKD19zdXBlcl9sZWFn",
             "dWVpZEIJCgdfcHBzdGlkQgkKB19wcHNyaWRCCgoIX21pbl9iZXRCDQoLX21p",
-            "ZGRsZV9iZXRCCwoJX2hpZ2hfYmV0IucKCg1QbGF5aW5nU3RhdHVzEhIKBWNh",
-            "cmQxGAEgASgFSACIAQESEgoFY2FyZDIYAiABKAVIAYgBARIaCg1hY3Rpb25f",
-            "c2VhdGlkGAMgASgFSAKIAQESHAoPY2FsbF9uZWVkX2NoaXBzGAQgASgDSAOI",
-            "AQESFwoKbWluX2NoaXBpbhgFIAEoA0gEiAEBEhcKCm1heF9jaGlwaW4YBiAB",
-            "KANIBYgBARIYCgthY3Rpb25fdGltZRgHIAEoBUgGiAEBEiEKFGFkZF9hY3Rp",
-            "b25fdGltZV9jb3N0GAggASgFSAeIAQESEgoFY2FyZDMYCSABKAVICIgBARIS",
-            "CgVjYXJkNBgKIAEoBUgJiAEBEhoKDXNob3dfc3RyYWRkbGUYCyABKAhICogB",
-            "ARIRCgRyb2xlGAwgASgFSAuIAQESGwoOcm9vbV9hdXRob3JpdHkYDSABKAhI",
-            "DIgBARIcCg9wcmVfYWN0aW9uX3R5cGUYDiABKAVIDYgBARIdChBwcmVfYWN0",
-            "aW9uX2NoaXBzGA8gASgDSA6IAQESGAoLYmFubmVkX3RhbGsYECABKAhID4gB",
-            "ARIfChJjcm91cGllcl90aXBfdGltZXMYESABKAVIEIgBARISCgVjYXJkNRgS",
-            "IAEoBUgRiAEBEhoKDWlzX2RlbGF5X3RpbWUYEyABKAhIEogBARIeChFpc191",
-            "c2luZ190aW1lYmFuaxgUIAEoCEgTiAEBEiMKFmlzX2Jvb2tfc2VhdF9jb25m",
-            "aXJtZWQYFSABKAhIFIgBARIfChJkZWFsZXJfY2hvb3NlX3RpbWUYFiABKAVI",
-            "FYgBARIoCgtldmNob3BfaW5mbxgXIAEoCzIOLkV2Q2hvcEluZm9CUkNIFogB",
-            "ARIZCgxkZWZhdWx0X2NhcmQYGCABKAVIF4gBARIeChF1c2VyX2Rpc2NhcmRf",
-            "Y2FyZBgZIAEoBUgYiAEBEhwKD2lzX2FncmVlX2RpdmlkZRgaIAEoCEgZiAEB",
-            "Eh0KEGhhZF9oYW5kX3NxdWVlemUYGyABKAhIGogBARIjChZmaXJzdF9hY3Rp",
-            "b25fdGltZV9wYXNzGBwgASgDSBuIAQESEgoFY2FyZDYYHSABKAVIHIgBARIa",
-            "Cg1jYW5fdmlld19oYW5kGB4gASgISB2IAQFCCAoGX2NhcmQxQggKBl9jYXJk",
-            "MkIQCg5fYWN0aW9uX3NlYXRpZEISChBfY2FsbF9uZWVkX2NoaXBzQg0KC19t",
-            "aW5fY2hpcGluQg0KC19tYXhfY2hpcGluQg4KDF9hY3Rpb25fdGltZUIXChVf",
-            "YWRkX2FjdGlvbl90aW1lX2Nvc3RCCAoGX2NhcmQzQggKBl9jYXJkNEIQCg5f",
-            "c2hvd19zdHJhZGRsZUIHCgVfcm9sZUIRCg9fcm9vbV9hdXRob3JpdHlCEgoQ",
-            "X3ByZV9hY3Rpb25fdHlwZUITChFfcHJlX2FjdGlvbl9jaGlwc0IOCgxfYmFu",
-            "bmVkX3RhbGtCFQoTX2Nyb3VwaWVyX3RpcF90aW1lc0IICgZfY2FyZDVCEAoO",
-            "X2lzX2RlbGF5X3RpbWVCFAoSX2lzX3VzaW5nX3RpbWViYW5rQhkKF19pc19i",
-            "b29rX3NlYXRfY29uZmlybWVkQhUKE19kZWFsZXJfY2hvb3NlX3RpbWVCDgoM",
-            "X2V2Y2hvcF9pbmZvQg8KDV9kZWZhdWx0X2NhcmRCFAoSX3VzZXJfZGlzY2Fy",
-            "ZF9jYXJkQhIKEF9pc19hZ3JlZV9kaXZpZGVCEwoRX2hhZF9oYW5kX3NxdWVl",
-            "emVCGQoXX2ZpcnN0X2FjdGlvbl90aW1lX3Bhc3NCCAoGX2NhcmQ2QhAKDl9j",
-            "YW5fdmlld19oYW5kIt0BCg5DaGFuZ2VUYWJsZVJTUBIRCgRjb2RlGAEgASgF",
-            "SACIAQESJwoMdGFibGVfc3RhdHVzGAIgASgLMgwuVGFibGVTdGF0dXNIAYgB",
-            "ARIlCgtyb29tX3N0YXR1cxgDIAEoCzILLlJvb21TdGF0dXNIAogBARIrCg5w",
-            "bGF5aW5nX3N0YXR1cxgEIAEoCzIOLlBsYXlpbmdTdGF0dXNIA4gBAUIHCgVf",
-            "Y29kZUIPCg1fdGFibGVfc3RhdHVzQg4KDF9yb29tX3N0YXR1c0IRCg9fcGxh",
-            "eWluZ19zdGF0dXMiQAoUVGFibGVTdGF0dXNCcm9hZGNhc3QSHwoEaW5mbxgB",
-            "IAEoCzIMLlRhYmxlU3RhdHVzSACIAQFCBwoFX2luZm9CEaoCDlRleGFzLlBy",
-            "b3RvY29sYgZwcm90bzM="));
+            "ZGRsZV9iZXRCCwoJX2hpZ2hfYmV0ItgKCg1QbGF5aW5nU3RhdHVzEg0KBWNh",
+            "cmRzGAEgAygFEhIKBWNhcmQyGAIgASgFSACIAQESGgoNYWN0aW9uX3NlYXRp",
+            "ZBgDIAEoBUgBiAEBEhwKD2NhbGxfbmVlZF9jaGlwcxgEIAEoA0gCiAEBEhcK",
+            "Cm1pbl9jaGlwaW4YBSABKANIA4gBARIXCgptYXhfY2hpcGluGAYgASgDSASI",
+            "AQESGAoLYWN0aW9uX3RpbWUYByABKAVIBYgBARIhChRhZGRfYWN0aW9uX3Rp",
+            "bWVfY29zdBgIIAEoBUgGiAEBEhIKBWNhcmQzGAkgASgFSAeIAQESEgoFY2Fy",
+            "ZDQYCiABKAVICIgBARIaCg1zaG93X3N0cmFkZGxlGAsgASgISAmIAQESEQoE",
+            "cm9sZRgMIAEoBUgKiAEBEhsKDnJvb21fYXV0aG9yaXR5GA0gASgISAuIAQES",
+            "HAoPcHJlX2FjdGlvbl90eXBlGA4gASgFSAyIAQESHQoQcHJlX2FjdGlvbl9j",
+            "aGlwcxgPIAEoA0gNiAEBEhgKC2Jhbm5lZF90YWxrGBAgASgISA6IAQESHwoS",
+            "Y3JvdXBpZXJfdGlwX3RpbWVzGBEgASgFSA+IAQESEgoFY2FyZDUYEiABKAVI",
+            "EIgBARIaCg1pc19kZWxheV90aW1lGBMgASgISBGIAQESHgoRaXNfdXNpbmdf",
+            "dGltZWJhbmsYFCABKAhIEogBARIjChZpc19ib29rX3NlYXRfY29uZmlybWVk",
+            "GBUgASgISBOIAQESHwoSZGVhbGVyX2Nob29zZV90aW1lGBYgASgFSBSIAQES",
+            "KAoLZXZjaG9wX2luZm8YFyABKAsyDi5FdkNob3BJbmZvQlJDSBWIAQESGQoM",
+            "ZGVmYXVsdF9jYXJkGBggASgFSBaIAQESHgoRdXNlcl9kaXNjYXJkX2NhcmQY",
+            "GSABKAVIF4gBARIcCg9pc19hZ3JlZV9kaXZpZGUYGiABKAhIGIgBARIdChBo",
+            "YWRfaGFuZF9zcXVlZXplGBsgASgISBmIAQESIwoWZmlyc3RfYWN0aW9uX3Rp",
+            "bWVfcGFzcxgcIAEoA0gaiAEBEhIKBWNhcmQ2GB0gASgFSBuIAQESGgoNY2Fu",
+            "X3ZpZXdfaGFuZBgeIAEoCEgciAEBQggKBl9jYXJkMkIQCg5fYWN0aW9uX3Nl",
+            "YXRpZEISChBfY2FsbF9uZWVkX2NoaXBzQg0KC19taW5fY2hpcGluQg0KC19t",
+            "YXhfY2hpcGluQg4KDF9hY3Rpb25fdGltZUIXChVfYWRkX2FjdGlvbl90aW1l",
+            "X2Nvc3RCCAoGX2NhcmQzQggKBl9jYXJkNEIQCg5fc2hvd19zdHJhZGRsZUIH",
+            "CgVfcm9sZUIRCg9fcm9vbV9hdXRob3JpdHlCEgoQX3ByZV9hY3Rpb25fdHlw",
+            "ZUITChFfcHJlX2FjdGlvbl9jaGlwc0IOCgxfYmFubmVkX3RhbGtCFQoTX2Ny",
+            "b3VwaWVyX3RpcF90aW1lc0IICgZfY2FyZDVCEAoOX2lzX2RlbGF5X3RpbWVC",
+            "FAoSX2lzX3VzaW5nX3RpbWViYW5rQhkKF19pc19ib29rX3NlYXRfY29uZmly",
+            "bWVkQhUKE19kZWFsZXJfY2hvb3NlX3RpbWVCDgoMX2V2Y2hvcF9pbmZvQg8K",
+            "DV9kZWZhdWx0X2NhcmRCFAoSX3VzZXJfZGlzY2FyZF9jYXJkQhIKEF9pc19h",
+            "Z3JlZV9kaXZpZGVCEwoRX2hhZF9oYW5kX3NxdWVlemVCGQoXX2ZpcnN0X2Fj",
+            "dGlvbl90aW1lX3Bhc3NCCAoGX2NhcmQ2QhAKDl9jYW5fdmlld19oYW5kIt0B",
+            "Cg5DaGFuZ2VUYWJsZVJTUBIRCgRjb2RlGAEgASgFSACIAQESJwoMdGFibGVf",
+            "c3RhdHVzGAIgASgLMgwuVGFibGVTdGF0dXNIAYgBARIlCgtyb29tX3N0YXR1",
+            "cxgDIAEoCzILLlJvb21TdGF0dXNIAogBARIrCg5wbGF5aW5nX3N0YXR1cxgE",
+            "IAEoCzIOLlBsYXlpbmdTdGF0dXNIA4gBAUIHCgVfY29kZUIPCg1fdGFibGVf",
+            "c3RhdHVzQg4KDF9yb29tX3N0YXR1c0IRCg9fcGxheWluZ19zdGF0dXMiQAoU",
+            "VGFibGVTdGF0dXNCcm9hZGNhc3QSHwoEaW5mbxgBIAEoCzIMLlRhYmxlU3Rh",
+            "dHVzSACIAQFCBwoFX2luZm9CGloHL3BicHBnb6oCDlRleGFzLlByb3RvY29s",
+            "YgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, global::Texas.Protocol.PineReflection.Descriptor, global::Texas.Protocol.CalltimeReflection.Descriptor, global::Texas.Protocol.PreBase1Reflection.Descriptor, global::Texas.Protocol.EvchopReflection.Descriptor, global::Texas.Protocol.LuckyDrawReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -280,7 +280,7 @@ namespace Texas.Protocol {
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.ProfitListREQ), global::Texas.Protocol.ProfitListREQ.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.ProfitListRSP), global::Texas.Protocol.ProfitListRSP.Parser, new[]{ "Profit" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.MultipleTableRoomInfo), global::Texas.Protocol.MultipleTableRoomInfo.Parser, new[]{ "Roomid", "Clubid", "Roomtype", "IsSatellite", "Official", "IsInsurance", "RoomMode", "GameMode", "SeatNum", "Blind", "RoomName", "DefaultBuyin", "Tid", "PasswdLimit", "Passwd", "Leagueid", "SuperLeagueid", "Ppstid", "Ppsrid", "MinBet", "MiddleBet", "HighBet" }, new[]{ "Roomid", "Clubid", "Roomtype", "IsSatellite", "Official", "IsInsurance", "RoomMode", "GameMode", "SeatNum", "Blind", "RoomName", "DefaultBuyin", "Tid", "PasswdLimit", "Passwd", "Leagueid", "SuperLeagueid", "Ppstid", "Ppsrid", "MinBet", "MiddleBet", "HighBet" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.PlayingStatus), global::Texas.Protocol.PlayingStatus.Parser, new[]{ "Card1", "Card2", "ActionSeatid", "CallNeedChips", "MinChipin", "MaxChipin", "ActionTime", "AddActionTimeCost", "Card3", "Card4", "ShowStraddle", "Role", "RoomAuthority", "PreActionType", "PreActionChips", "BannedTalk", "CroupierTipTimes", "Card5", "IsDelayTime", "IsUsingTimebank", "IsBookSeatConfirmed", "DealerChooseTime", "EvchopInfo", "DefaultCard", "UserDiscardCard", "IsAgreeDivide", "HadHandSqueeze", "FirstActionTimePass", "Card6", "CanViewHand" }, new[]{ "Card1", "Card2", "ActionSeatid", "CallNeedChips", "MinChipin", "MaxChipin", "ActionTime", "AddActionTimeCost", "Card3", "Card4", "ShowStraddle", "Role", "RoomAuthority", "PreActionType", "PreActionChips", "BannedTalk", "CroupierTipTimes", "Card5", "IsDelayTime", "IsUsingTimebank", "IsBookSeatConfirmed", "DealerChooseTime", "EvchopInfo", "DefaultCard", "UserDiscardCard", "IsAgreeDivide", "HadHandSqueeze", "FirstActionTimePass", "Card6", "CanViewHand" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.PlayingStatus), global::Texas.Protocol.PlayingStatus.Parser, new[]{ "Cards", "Card2", "ActionSeatid", "CallNeedChips", "MinChipin", "MaxChipin", "ActionTime", "AddActionTimeCost", "Card3", "Card4", "ShowStraddle", "Role", "RoomAuthority", "PreActionType", "PreActionChips", "BannedTalk", "CroupierTipTimes", "Card5", "IsDelayTime", "IsUsingTimebank", "IsBookSeatConfirmed", "DealerChooseTime", "EvchopInfo", "DefaultCard", "UserDiscardCard", "IsAgreeDivide", "HadHandSqueeze", "FirstActionTimePass", "Card6", "CanViewHand" }, new[]{ "Card2", "ActionSeatid", "CallNeedChips", "MinChipin", "MaxChipin", "ActionTime", "AddActionTimeCost", "Card3", "Card4", "ShowStraddle", "Role", "RoomAuthority", "PreActionType", "PreActionChips", "BannedTalk", "CroupierTipTimes", "Card5", "IsDelayTime", "IsUsingTimebank", "IsBookSeatConfirmed", "DealerChooseTime", "EvchopInfo", "DefaultCard", "UserDiscardCard", "IsAgreeDivide", "HadHandSqueeze", "FirstActionTimePass", "Card6", "CanViewHand" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.ChangeTableRSP), global::Texas.Protocol.ChangeTableRSP.Parser, new[]{ "Code", "TableStatus", "RoomStatus", "PlayingStatus" }, new[]{ "Code", "TableStatus", "RoomStatus", "PlayingStatus" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.TableStatusBroadcast), global::Texas.Protocol.TableStatusBroadcast.Parser, new[]{ "Info" }, new[]{ "Info" }, null, null, null)
           }));
@@ -14317,7 +14317,7 @@ namespace Texas.Protocol {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public PlayingStatus(PlayingStatus other) : this() {
       _hasBits0 = other._hasBits0;
-      card1_ = other.card1_;
+      cards_ = other.cards_.Clone();
       card2_ = other.card2_;
       actionSeatid_ = other.actionSeatid_;
       callNeedChips_ = other.callNeedChips_;
@@ -14356,31 +14356,15 @@ namespace Texas.Protocol {
       return new PlayingStatus(this);
     }
 
-    /// <summary>Field number for the "card1" field.</summary>
-    public const int Card1FieldNumber = 1;
-    private readonly static int Card1DefaultValue = 0;
-
-    private int card1_;
+    /// <summary>Field number for the "cards" field.</summary>
+    public const int CardsFieldNumber = 1;
+    private static readonly pb::FieldCodec<int> _repeated_cards_codec
+        = pb::FieldCodec.ForInt32(10);
+    private readonly pbc::RepeatedField<int> cards_ = new pbc::RepeatedField<int>();
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int Card1 {
-      get { if ((_hasBits0 & 1) != 0) { return card1_; } else { return Card1DefaultValue; } }
-      set {
-        _hasBits0 |= 1;
-        card1_ = value;
-      }
-    }
-    /// <summary>Gets whether the "card1" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasCard1 {
-      get { return (_hasBits0 & 1) != 0; }
-    }
-    /// <summary>Clears the value of the "card1" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearCard1() {
-      _hasBits0 &= ~1;
+    public pbc::RepeatedField<int> Cards {
+      get { return cards_; }
     }
 
     /// <summary>Field number for the "card2" field.</summary>
@@ -14391,9 +14375,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int Card2 {
-      get { if ((_hasBits0 & 2) != 0) { return card2_; } else { return Card2DefaultValue; } }
+      get { if ((_hasBits0 & 1) != 0) { return card2_; } else { return Card2DefaultValue; } }
       set {
-        _hasBits0 |= 2;
+        _hasBits0 |= 1;
         card2_ = value;
       }
     }
@@ -14401,13 +14385,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCard2 {
-      get { return (_hasBits0 & 2) != 0; }
+      get { return (_hasBits0 & 1) != 0; }
     }
     /// <summary>Clears the value of the "card2" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCard2() {
-      _hasBits0 &= ~2;
+      _hasBits0 &= ~1;
     }
 
     /// <summary>Field number for the "action_seatid" field.</summary>
@@ -14418,9 +14402,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int ActionSeatid {
-      get { if ((_hasBits0 & 4) != 0) { return actionSeatid_; } else { return ActionSeatidDefaultValue; } }
+      get { if ((_hasBits0 & 2) != 0) { return actionSeatid_; } else { return ActionSeatidDefaultValue; } }
       set {
-        _hasBits0 |= 4;
+        _hasBits0 |= 2;
         actionSeatid_ = value;
       }
     }
@@ -14428,13 +14412,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasActionSeatid {
-      get { return (_hasBits0 & 4) != 0; }
+      get { return (_hasBits0 & 2) != 0; }
     }
     /// <summary>Clears the value of the "action_seatid" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearActionSeatid() {
-      _hasBits0 &= ~4;
+      _hasBits0 &= ~2;
     }
 
     /// <summary>Field number for the "call_need_chips" field.</summary>
@@ -14445,9 +14429,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public long CallNeedChips {
-      get { if ((_hasBits0 & 8) != 0) { return callNeedChips_; } else { return CallNeedChipsDefaultValue; } }
+      get { if ((_hasBits0 & 4) != 0) { return callNeedChips_; } else { return CallNeedChipsDefaultValue; } }
       set {
-        _hasBits0 |= 8;
+        _hasBits0 |= 4;
         callNeedChips_ = value;
       }
     }
@@ -14455,13 +14439,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCallNeedChips {
-      get { return (_hasBits0 & 8) != 0; }
+      get { return (_hasBits0 & 4) != 0; }
     }
     /// <summary>Clears the value of the "call_need_chips" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCallNeedChips() {
-      _hasBits0 &= ~8;
+      _hasBits0 &= ~4;
     }
 
     /// <summary>Field number for the "min_chipin" field.</summary>
@@ -14472,9 +14456,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public long MinChipin {
-      get { if ((_hasBits0 & 16) != 0) { return minChipin_; } else { return MinChipinDefaultValue; } }
+      get { if ((_hasBits0 & 8) != 0) { return minChipin_; } else { return MinChipinDefaultValue; } }
       set {
-        _hasBits0 |= 16;
+        _hasBits0 |= 8;
         minChipin_ = value;
       }
     }
@@ -14482,13 +14466,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasMinChipin {
-      get { return (_hasBits0 & 16) != 0; }
+      get { return (_hasBits0 & 8) != 0; }
     }
     /// <summary>Clears the value of the "min_chipin" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearMinChipin() {
-      _hasBits0 &= ~16;
+      _hasBits0 &= ~8;
     }
 
     /// <summary>Field number for the "max_chipin" field.</summary>
@@ -14499,9 +14483,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public long MaxChipin {
-      get { if ((_hasBits0 & 32) != 0) { return maxChipin_; } else { return MaxChipinDefaultValue; } }
+      get { if ((_hasBits0 & 16) != 0) { return maxChipin_; } else { return MaxChipinDefaultValue; } }
       set {
-        _hasBits0 |= 32;
+        _hasBits0 |= 16;
         maxChipin_ = value;
       }
     }
@@ -14509,13 +14493,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasMaxChipin {
-      get { return (_hasBits0 & 32) != 0; }
+      get { return (_hasBits0 & 16) != 0; }
     }
     /// <summary>Clears the value of the "max_chipin" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearMaxChipin() {
-      _hasBits0 &= ~32;
+      _hasBits0 &= ~16;
     }
 
     /// <summary>Field number for the "action_time" field.</summary>
@@ -14529,9 +14513,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int ActionTime {
-      get { if ((_hasBits0 & 64) != 0) { return actionTime_; } else { return ActionTimeDefaultValue; } }
+      get { if ((_hasBits0 & 32) != 0) { return actionTime_; } else { return ActionTimeDefaultValue; } }
       set {
-        _hasBits0 |= 64;
+        _hasBits0 |= 32;
         actionTime_ = value;
       }
     }
@@ -14539,13 +14523,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasActionTime {
-      get { return (_hasBits0 & 64) != 0; }
+      get { return (_hasBits0 & 32) != 0; }
     }
     /// <summary>Clears the value of the "action_time" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearActionTime() {
-      _hasBits0 &= ~64;
+      _hasBits0 &= ~32;
     }
 
     /// <summary>Field number for the "add_action_time_cost" field.</summary>
@@ -14559,9 +14543,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int AddActionTimeCost {
-      get { if ((_hasBits0 & 128) != 0) { return addActionTimeCost_; } else { return AddActionTimeCostDefaultValue; } }
+      get { if ((_hasBits0 & 64) != 0) { return addActionTimeCost_; } else { return AddActionTimeCostDefaultValue; } }
       set {
-        _hasBits0 |= 128;
+        _hasBits0 |= 64;
         addActionTimeCost_ = value;
       }
     }
@@ -14569,13 +14553,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasAddActionTimeCost {
-      get { return (_hasBits0 & 128) != 0; }
+      get { return (_hasBits0 & 64) != 0; }
     }
     /// <summary>Clears the value of the "add_action_time_cost" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearAddActionTimeCost() {
-      _hasBits0 &= ~128;
+      _hasBits0 &= ~64;
     }
 
     /// <summary>Field number for the "card3" field.</summary>
@@ -14586,9 +14570,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int Card3 {
-      get { if ((_hasBits0 & 256) != 0) { return card3_; } else { return Card3DefaultValue; } }
+      get { if ((_hasBits0 & 128) != 0) { return card3_; } else { return Card3DefaultValue; } }
       set {
-        _hasBits0 |= 256;
+        _hasBits0 |= 128;
         card3_ = value;
       }
     }
@@ -14596,13 +14580,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCard3 {
-      get { return (_hasBits0 & 256) != 0; }
+      get { return (_hasBits0 & 128) != 0; }
     }
     /// <summary>Clears the value of the "card3" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCard3() {
-      _hasBits0 &= ~256;
+      _hasBits0 &= ~128;
     }
 
     /// <summary>Field number for the "card4" field.</summary>
@@ -14613,9 +14597,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int Card4 {
-      get { if ((_hasBits0 & 512) != 0) { return card4_; } else { return Card4DefaultValue; } }
+      get { if ((_hasBits0 & 256) != 0) { return card4_; } else { return Card4DefaultValue; } }
       set {
-        _hasBits0 |= 512;
+        _hasBits0 |= 256;
         card4_ = value;
       }
     }
@@ -14623,13 +14607,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCard4 {
-      get { return (_hasBits0 & 512) != 0; }
+      get { return (_hasBits0 & 256) != 0; }
     }
     /// <summary>Clears the value of the "card4" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCard4() {
-      _hasBits0 &= ~512;
+      _hasBits0 &= ~256;
     }
 
     /// <summary>Field number for the "show_straddle" field.</summary>
@@ -14643,9 +14627,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ShowStraddle {
-      get { if ((_hasBits0 & 1024) != 0) { return showStraddle_; } else { return ShowStraddleDefaultValue; } }
+      get { if ((_hasBits0 & 512) != 0) { return showStraddle_; } else { return ShowStraddleDefaultValue; } }
       set {
-        _hasBits0 |= 1024;
+        _hasBits0 |= 512;
         showStraddle_ = value;
       }
     }
@@ -14653,13 +14637,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasShowStraddle {
-      get { return (_hasBits0 & 1024) != 0; }
+      get { return (_hasBits0 & 512) != 0; }
     }
     /// <summary>Clears the value of the "show_straddle" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearShowStraddle() {
-      _hasBits0 &= ~1024;
+      _hasBits0 &= ~512;
     }
 
     /// <summary>Field number for the "role" field.</summary>
@@ -14673,9 +14657,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int Role {
-      get { if ((_hasBits0 & 2048) != 0) { return role_; } else { return RoleDefaultValue; } }
+      get { if ((_hasBits0 & 1024) != 0) { return role_; } else { return RoleDefaultValue; } }
       set {
-        _hasBits0 |= 2048;
+        _hasBits0 |= 1024;
         role_ = value;
       }
     }
@@ -14683,13 +14667,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasRole {
-      get { return (_hasBits0 & 2048) != 0; }
+      get { return (_hasBits0 & 1024) != 0; }
     }
     /// <summary>Clears the value of the "role" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearRole() {
-      _hasBits0 &= ~2048;
+      _hasBits0 &= ~1024;
     }
 
     /// <summary>Field number for the "room_authority" field.</summary>
@@ -14703,9 +14687,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool RoomAuthority {
-      get { if ((_hasBits0 & 4096) != 0) { return roomAuthority_; } else { return RoomAuthorityDefaultValue; } }
+      get { if ((_hasBits0 & 2048) != 0) { return roomAuthority_; } else { return RoomAuthorityDefaultValue; } }
       set {
-        _hasBits0 |= 4096;
+        _hasBits0 |= 2048;
         roomAuthority_ = value;
       }
     }
@@ -14713,13 +14697,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasRoomAuthority {
-      get { return (_hasBits0 & 4096) != 0; }
+      get { return (_hasBits0 & 2048) != 0; }
     }
     /// <summary>Clears the value of the "room_authority" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearRoomAuthority() {
-      _hasBits0 &= ~4096;
+      _hasBits0 &= ~2048;
     }
 
     /// <summary>Field number for the "pre_action_type" field.</summary>
@@ -14733,9 +14717,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int PreActionType {
-      get { if ((_hasBits0 & 8192) != 0) { return preActionType_; } else { return PreActionTypeDefaultValue; } }
+      get { if ((_hasBits0 & 4096) != 0) { return preActionType_; } else { return PreActionTypeDefaultValue; } }
       set {
-        _hasBits0 |= 8192;
+        _hasBits0 |= 4096;
         preActionType_ = value;
       }
     }
@@ -14743,13 +14727,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasPreActionType {
-      get { return (_hasBits0 & 8192) != 0; }
+      get { return (_hasBits0 & 4096) != 0; }
     }
     /// <summary>Clears the value of the "pre_action_type" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearPreActionType() {
-      _hasBits0 &= ~8192;
+      _hasBits0 &= ~4096;
     }
 
     /// <summary>Field number for the "pre_action_chips" field.</summary>
@@ -14763,9 +14747,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public long PreActionChips {
-      get { if ((_hasBits0 & 16384) != 0) { return preActionChips_; } else { return PreActionChipsDefaultValue; } }
+      get { if ((_hasBits0 & 8192) != 0) { return preActionChips_; } else { return PreActionChipsDefaultValue; } }
       set {
-        _hasBits0 |= 16384;
+        _hasBits0 |= 8192;
         preActionChips_ = value;
       }
     }
@@ -14773,13 +14757,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasPreActionChips {
-      get { return (_hasBits0 & 16384) != 0; }
+      get { return (_hasBits0 & 8192) != 0; }
     }
     /// <summary>Clears the value of the "pre_action_chips" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearPreActionChips() {
-      _hasBits0 &= ~16384;
+      _hasBits0 &= ~8192;
     }
 
     /// <summary>Field number for the "banned_talk" field.</summary>
@@ -14790,9 +14774,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool BannedTalk {
-      get { if ((_hasBits0 & 32768) != 0) { return bannedTalk_; } else { return BannedTalkDefaultValue; } }
+      get { if ((_hasBits0 & 16384) != 0) { return bannedTalk_; } else { return BannedTalkDefaultValue; } }
       set {
-        _hasBits0 |= 32768;
+        _hasBits0 |= 16384;
         bannedTalk_ = value;
       }
     }
@@ -14800,13 +14784,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasBannedTalk {
-      get { return (_hasBits0 & 32768) != 0; }
+      get { return (_hasBits0 & 16384) != 0; }
     }
     /// <summary>Clears the value of the "banned_talk" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearBannedTalk() {
-      _hasBits0 &= ~32768;
+      _hasBits0 &= ~16384;
     }
 
     /// <summary>Field number for the "croupier_tip_times" field.</summary>
@@ -14817,9 +14801,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int CroupierTipTimes {
-      get { if ((_hasBits0 & 65536) != 0) { return croupierTipTimes_; } else { return CroupierTipTimesDefaultValue; } }
+      get { if ((_hasBits0 & 32768) != 0) { return croupierTipTimes_; } else { return CroupierTipTimesDefaultValue; } }
       set {
-        _hasBits0 |= 65536;
+        _hasBits0 |= 32768;
         croupierTipTimes_ = value;
       }
     }
@@ -14827,13 +14811,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCroupierTipTimes {
-      get { return (_hasBits0 & 65536) != 0; }
+      get { return (_hasBits0 & 32768) != 0; }
     }
     /// <summary>Clears the value of the "croupier_tip_times" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCroupierTipTimes() {
-      _hasBits0 &= ~65536;
+      _hasBits0 &= ~32768;
     }
 
     /// <summary>Field number for the "card5" field.</summary>
@@ -14844,9 +14828,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int Card5 {
-      get { if ((_hasBits0 & 131072) != 0) { return card5_; } else { return Card5DefaultValue; } }
+      get { if ((_hasBits0 & 65536) != 0) { return card5_; } else { return Card5DefaultValue; } }
       set {
-        _hasBits0 |= 131072;
+        _hasBits0 |= 65536;
         card5_ = value;
       }
     }
@@ -14854,13 +14838,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCard5 {
-      get { return (_hasBits0 & 131072) != 0; }
+      get { return (_hasBits0 & 65536) != 0; }
     }
     /// <summary>Clears the value of the "card5" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCard5() {
-      _hasBits0 &= ~131072;
+      _hasBits0 &= ~65536;
     }
 
     /// <summary>Field number for the "is_delay_time" field.</summary>
@@ -14874,9 +14858,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool IsDelayTime {
-      get { if ((_hasBits0 & 262144) != 0) { return isDelayTime_; } else { return IsDelayTimeDefaultValue; } }
+      get { if ((_hasBits0 & 131072) != 0) { return isDelayTime_; } else { return IsDelayTimeDefaultValue; } }
       set {
-        _hasBits0 |= 262144;
+        _hasBits0 |= 131072;
         isDelayTime_ = value;
       }
     }
@@ -14884,13 +14868,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasIsDelayTime {
-      get { return (_hasBits0 & 262144) != 0; }
+      get { return (_hasBits0 & 131072) != 0; }
     }
     /// <summary>Clears the value of the "is_delay_time" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearIsDelayTime() {
-      _hasBits0 &= ~262144;
+      _hasBits0 &= ~131072;
     }
 
     /// <summary>Field number for the "is_using_timebank" field.</summary>
@@ -14904,9 +14888,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool IsUsingTimebank {
-      get { if ((_hasBits0 & 524288) != 0) { return isUsingTimebank_; } else { return IsUsingTimebankDefaultValue; } }
+      get { if ((_hasBits0 & 262144) != 0) { return isUsingTimebank_; } else { return IsUsingTimebankDefaultValue; } }
       set {
-        _hasBits0 |= 524288;
+        _hasBits0 |= 262144;
         isUsingTimebank_ = value;
       }
     }
@@ -14914,13 +14898,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasIsUsingTimebank {
-      get { return (_hasBits0 & 524288) != 0; }
+      get { return (_hasBits0 & 262144) != 0; }
     }
     /// <summary>Clears the value of the "is_using_timebank" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearIsUsingTimebank() {
-      _hasBits0 &= ~524288;
+      _hasBits0 &= ~262144;
     }
 
     /// <summary>Field number for the "is_book_seat_confirmed" field.</summary>
@@ -14934,9 +14918,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool IsBookSeatConfirmed {
-      get { if ((_hasBits0 & 1048576) != 0) { return isBookSeatConfirmed_; } else { return IsBookSeatConfirmedDefaultValue; } }
+      get { if ((_hasBits0 & 524288) != 0) { return isBookSeatConfirmed_; } else { return IsBookSeatConfirmedDefaultValue; } }
       set {
-        _hasBits0 |= 1048576;
+        _hasBits0 |= 524288;
         isBookSeatConfirmed_ = value;
       }
     }
@@ -14944,13 +14928,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasIsBookSeatConfirmed {
-      get { return (_hasBits0 & 1048576) != 0; }
+      get { return (_hasBits0 & 524288) != 0; }
     }
     /// <summary>Clears the value of the "is_book_seat_confirmed" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearIsBookSeatConfirmed() {
-      _hasBits0 &= ~1048576;
+      _hasBits0 &= ~524288;
     }
 
     /// <summary>Field number for the "dealer_choose_time" field.</summary>
@@ -14964,9 +14948,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int DealerChooseTime {
-      get { if ((_hasBits0 & 2097152) != 0) { return dealerChooseTime_; } else { return DealerChooseTimeDefaultValue; } }
+      get { if ((_hasBits0 & 1048576) != 0) { return dealerChooseTime_; } else { return DealerChooseTimeDefaultValue; } }
       set {
-        _hasBits0 |= 2097152;
+        _hasBits0 |= 1048576;
         dealerChooseTime_ = value;
       }
     }
@@ -14974,13 +14958,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasDealerChooseTime {
-      get { return (_hasBits0 & 2097152) != 0; }
+      get { return (_hasBits0 & 1048576) != 0; }
     }
     /// <summary>Clears the value of the "dealer_choose_time" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearDealerChooseTime() {
-      _hasBits0 &= ~2097152;
+      _hasBits0 &= ~1048576;
     }
 
     /// <summary>Field number for the "evchop_info" field.</summary>
@@ -15009,9 +14993,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int DefaultCard {
-      get { if ((_hasBits0 & 4194304) != 0) { return defaultCard_; } else { return DefaultCardDefaultValue; } }
+      get { if ((_hasBits0 & 2097152) != 0) { return defaultCard_; } else { return DefaultCardDefaultValue; } }
       set {
-        _hasBits0 |= 4194304;
+        _hasBits0 |= 2097152;
         defaultCard_ = value;
       }
     }
@@ -15019,13 +15003,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasDefaultCard {
-      get { return (_hasBits0 & 4194304) != 0; }
+      get { return (_hasBits0 & 2097152) != 0; }
     }
     /// <summary>Clears the value of the "default_card" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearDefaultCard() {
-      _hasBits0 &= ~4194304;
+      _hasBits0 &= ~2097152;
     }
 
     /// <summary>Field number for the "user_discard_card" field.</summary>
@@ -15039,9 +15023,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int UserDiscardCard {
-      get { if ((_hasBits0 & 8388608) != 0) { return userDiscardCard_; } else { return UserDiscardCardDefaultValue; } }
+      get { if ((_hasBits0 & 4194304) != 0) { return userDiscardCard_; } else { return UserDiscardCardDefaultValue; } }
       set {
-        _hasBits0 |= 8388608;
+        _hasBits0 |= 4194304;
         userDiscardCard_ = value;
       }
     }
@@ -15049,13 +15033,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasUserDiscardCard {
-      get { return (_hasBits0 & 8388608) != 0; }
+      get { return (_hasBits0 & 4194304) != 0; }
     }
     /// <summary>Clears the value of the "user_discard_card" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearUserDiscardCard() {
-      _hasBits0 &= ~8388608;
+      _hasBits0 &= ~4194304;
     }
 
     /// <summary>Field number for the "is_agree_divide" field.</summary>
@@ -15069,9 +15053,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool IsAgreeDivide {
-      get { if ((_hasBits0 & 16777216) != 0) { return isAgreeDivide_; } else { return IsAgreeDivideDefaultValue; } }
+      get { if ((_hasBits0 & 8388608) != 0) { return isAgreeDivide_; } else { return IsAgreeDivideDefaultValue; } }
       set {
-        _hasBits0 |= 16777216;
+        _hasBits0 |= 8388608;
         isAgreeDivide_ = value;
       }
     }
@@ -15079,13 +15063,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasIsAgreeDivide {
-      get { return (_hasBits0 & 16777216) != 0; }
+      get { return (_hasBits0 & 8388608) != 0; }
     }
     /// <summary>Clears the value of the "is_agree_divide" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearIsAgreeDivide() {
-      _hasBits0 &= ~16777216;
+      _hasBits0 &= ~8388608;
     }
 
     /// <summary>Field number for the "had_hand_squeeze" field.</summary>
@@ -15099,9 +15083,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HadHandSqueeze {
-      get { if ((_hasBits0 & 33554432) != 0) { return hadHandSqueeze_; } else { return HadHandSqueezeDefaultValue; } }
+      get { if ((_hasBits0 & 16777216) != 0) { return hadHandSqueeze_; } else { return HadHandSqueezeDefaultValue; } }
       set {
-        _hasBits0 |= 33554432;
+        _hasBits0 |= 16777216;
         hadHandSqueeze_ = value;
       }
     }
@@ -15109,13 +15093,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasHadHandSqueeze {
-      get { return (_hasBits0 & 33554432) != 0; }
+      get { return (_hasBits0 & 16777216) != 0; }
     }
     /// <summary>Clears the value of the "had_hand_squeeze" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearHadHandSqueeze() {
-      _hasBits0 &= ~33554432;
+      _hasBits0 &= ~16777216;
     }
 
     /// <summary>Field number for the "first_action_time_pass" field.</summary>
@@ -15129,9 +15113,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public long FirstActionTimePass {
-      get { if ((_hasBits0 & 67108864) != 0) { return firstActionTimePass_; } else { return FirstActionTimePassDefaultValue; } }
+      get { if ((_hasBits0 & 33554432) != 0) { return firstActionTimePass_; } else { return FirstActionTimePassDefaultValue; } }
       set {
-        _hasBits0 |= 67108864;
+        _hasBits0 |= 33554432;
         firstActionTimePass_ = value;
       }
     }
@@ -15139,13 +15123,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasFirstActionTimePass {
-      get { return (_hasBits0 & 67108864) != 0; }
+      get { return (_hasBits0 & 33554432) != 0; }
     }
     /// <summary>Clears the value of the "first_action_time_pass" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearFirstActionTimePass() {
-      _hasBits0 &= ~67108864;
+      _hasBits0 &= ~33554432;
     }
 
     /// <summary>Field number for the "card6" field.</summary>
@@ -15159,9 +15143,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int Card6 {
-      get { if ((_hasBits0 & 134217728) != 0) { return card6_; } else { return Card6DefaultValue; } }
+      get { if ((_hasBits0 & 67108864) != 0) { return card6_; } else { return Card6DefaultValue; } }
       set {
-        _hasBits0 |= 134217728;
+        _hasBits0 |= 67108864;
         card6_ = value;
       }
     }
@@ -15169,13 +15153,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCard6 {
-      get { return (_hasBits0 & 134217728) != 0; }
+      get { return (_hasBits0 & 67108864) != 0; }
     }
     /// <summary>Clears the value of the "card6" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCard6() {
-      _hasBits0 &= ~134217728;
+      _hasBits0 &= ~67108864;
     }
 
     /// <summary>Field number for the "can_view_hand" field.</summary>
@@ -15189,9 +15173,9 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool CanViewHand {
-      get { if ((_hasBits0 & 268435456) != 0) { return canViewHand_; } else { return CanViewHandDefaultValue; } }
+      get { if ((_hasBits0 & 134217728) != 0) { return canViewHand_; } else { return CanViewHandDefaultValue; } }
       set {
-        _hasBits0 |= 268435456;
+        _hasBits0 |= 134217728;
         canViewHand_ = value;
       }
     }
@@ -15199,13 +15183,13 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCanViewHand {
-      get { return (_hasBits0 & 268435456) != 0; }
+      get { return (_hasBits0 & 134217728) != 0; }
     }
     /// <summary>Clears the value of the "can_view_hand" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCanViewHand() {
-      _hasBits0 &= ~268435456;
+      _hasBits0 &= ~134217728;
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15223,7 +15207,7 @@ namespace Texas.Protocol {
       if (ReferenceEquals(other, this)) {
         return true;
       }
-      if (Card1 != other.Card1) return false;
+      if(!cards_.Equals(other.cards_)) return false;
       if (Card2 != other.Card2) return false;
       if (ActionSeatid != other.ActionSeatid) return false;
       if (CallNeedChips != other.CallNeedChips) return false;
@@ -15260,7 +15244,7 @@ namespace Texas.Protocol {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override int GetHashCode() {
       int hash = 1;
-      if (HasCard1) hash ^= Card1.GetHashCode();
+      hash ^= cards_.GetHashCode();
       if (HasCard2) hash ^= Card2.GetHashCode();
       if (HasActionSeatid) hash ^= ActionSeatid.GetHashCode();
       if (HasCallNeedChips) hash ^= CallNeedChips.GetHashCode();
@@ -15308,10 +15292,7 @@ namespace Texas.Protocol {
     #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       output.WriteRawMessage(this);
     #else
-      if (HasCard1) {
-        output.WriteRawTag(8);
-        output.WriteInt32(Card1);
-      }
+      cards_.WriteTo(output, _repeated_cards_codec);
       if (HasCard2) {
         output.WriteRawTag(16);
         output.WriteInt32(Card2);
@@ -15438,10 +15419,7 @@ namespace Texas.Protocol {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
-      if (HasCard1) {
-        output.WriteRawTag(8);
-        output.WriteInt32(Card1);
-      }
+      cards_.WriteTo(ref output, _repeated_cards_codec);
       if (HasCard2) {
         output.WriteRawTag(16);
         output.WriteInt32(Card2);
@@ -15568,9 +15546,7 @@ namespace Texas.Protocol {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int CalculateSize() {
       int size = 0;
-      if (HasCard1) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Card1);
-      }
+      size += cards_.CalculateSize(_repeated_cards_codec);
       if (HasCard2) {
         size += 1 + pb::CodedOutputStream.ComputeInt32Size(Card2);
       }
@@ -15670,9 +15646,7 @@ namespace Texas.Protocol {
       if (other == null) {
         return;
       }
-      if (other.HasCard1) {
-        Card1 = other.Card1;
-      }
+      cards_.Add(other.cards_);
       if (other.HasCard2) {
         Card2 = other.Card2;
       }
@@ -15778,8 +15752,9 @@ namespace Texas.Protocol {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
             break;
+          case 10:
           case 8: {
-            Card1 = input.ReadInt32();
+            cards_.AddEntriesFrom(input, _repeated_cards_codec);
             break;
           }
           case 16: {
@@ -15916,8 +15891,9 @@ namespace Texas.Protocol {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
             break;
+          case 10:
           case 8: {
-            Card1 = input.ReadInt32();
+            cards_.AddEntriesFrom(ref input, _repeated_cards_codec);
             break;
           }
           case 16: {

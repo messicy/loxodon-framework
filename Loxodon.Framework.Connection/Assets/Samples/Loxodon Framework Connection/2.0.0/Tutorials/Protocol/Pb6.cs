@@ -89,8 +89,8 @@ namespace Texas.Protocol {
             "GAEgASgFSACIAQESGQoMZGlzY2FyZF9jYXJkGAIgASgFSAGIAQFCBwoFX2Nv",
             "ZGVCDwoNX2Rpc2NhcmRfY2FyZCIgCg5EaXNjYXJkQ2FyZEJSQxIOCgZzZWF0",
             "aWQYASADKAUiNgoOU2hvd0Rpc2NhcmRCUkMSFgoJbGVmdF90aW1lGAEgASgF",
-            "SACIAQFCDAoKX2xlZnRfdGltZSIPCg1FbmREaXNjYXJkQlJDQhGqAg5UZXhh",
-            "cy5Qcm90b2NvbGIGcHJvdG8z"));
+            "SACIAQFCDAoKX2xlZnRfdGltZSIPCg1FbmREaXNjYXJkQlJDQhpaBy9wYnBw",
+            "Z2+qAg5UZXhhcy5Qcm90b2NvbGIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, global::Texas.Protocol.PineReflection.Descriptor, global::Texas.Protocol.SngReflection.Descriptor, global::Texas.Protocol.Pb1Reflection.Descriptor, global::Texas.Protocol.Pb4Reflection.Descriptor, global::Texas.Protocol.PusoyReflection.Descriptor, global::Texas.Protocol.TpReflection.Descriptor, global::Texas.Protocol.LuckyDrawReflection.Descriptor, global::Texas.Protocol.ColorgameReflection.Descriptor, global::Texas.Protocol.TongitsReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {

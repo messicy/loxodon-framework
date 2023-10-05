@@ -220,8 +220,8 @@ namespace Texas.Protocol {
             "R0FNRV9SRVRDT0RFX0xJTUlUX0NPTkNVUlJFTkNZEAQSIwofQ0FMTEdBTUVf",
             "UkVUQ09ERV9MSU1JVF9PQlNFUlZFUhAFEh8KG0NBTExHQU1FX1JFVENPREVf",
             "TElNSVRfUk9PTRAGEiUKIUNBTExHQU1FX1JFVENPREVfTElNSVRfU0lURURf",
-            "U0laRRAHEhoKFkNBTExHQU1FX1JFVENPREVfRVJST1IQCEIRqgIOVGV4YXMu",
-            "UHJvdG9jb2xiBnByb3RvMw=="));
+            "U0laRRAHEhoKFkNBTExHQU1FX1JFVENPREVfRVJST1IQCEIaWgcvcGJwcGdv",
+            "qgIOVGV4YXMuUHJvdG9jb2xiBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, global::Texas.Protocol.PreBase1Reflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.SpinUpBRCType), typeof(global::Texas.Protocol.DrawLotteryItemType), typeof(global::Texas.Protocol.SpinUpREQType), typeof(global::Texas.Protocol.GuessHandOptType), typeof(global::Texas.Protocol.GuessHandREQType), typeof(global::Texas.Protocol.GuessHandRETCode), typeof(global::Texas.Protocol.CallGameRetCode), }, null, new pbr::GeneratedClrTypeInfo[] {

@@ -333,8 +333,8 @@ namespace Texas.Protocol {
             "bVJTUBIWCglyb29tX3NpemUYASABKAVIAIgBARITCgZyb29taWQYAiABKAVI",
             "AYgBARIRCgR0eXBlGAMgASgFSAKIAQESEwoGY2x1YmlkGAQgASgFSAOIAQES",
             "FgoJZ2FtZV9tb2RlGAUgASgFSASIAQFCDAoKX3Jvb21fc2l6ZUIJCgdfcm9v",
-            "bWlkQgcKBV90eXBlQgkKB19jbHViaWRCDAoKX2dhbWVfbW9kZUIRqgIOVGV4",
-            "YXMuUHJvdG9jb2xiBnByb3RvMw=="));
+            "bWlkQgcKBV90eXBlQgkKB19jbHViaWRCDAoKX2dhbWVfbW9kZUIaWgcvcGJw",
+            "cGdvqgIOVGV4YXMuUHJvdG9jb2xiBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, global::Texas.Protocol.ClubBaseReflection.Descriptor, global::LeagueReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {

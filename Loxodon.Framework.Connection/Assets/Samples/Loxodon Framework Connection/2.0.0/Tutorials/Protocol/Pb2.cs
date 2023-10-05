@@ -59,92 +59,88 @@ namespace Texas.Protocol {
             "ASgDSACIAQFCBgoEX3VpZCKFAQoRU2hvd1JhYmJpdENhcmRSU1ASFwoKc2hv",
             "d2VyX3VpZBgBIAEoA0gAiAEBEhgKC3Nob3dlcl9uYW1lGAIgASgJSAGIAQES",
             "EwoGZ2FtZWlkGAMgASgJSAKIAQFCDQoLX3Nob3dlcl91aWRCDgoMX3Nob3dl",
-            "cl9uYW1lQgkKB19nYW1laWQi4gEKDFNob3dIYW5kSW5mbxITCgZzZWF0aWQY",
-            "ASABKAVIAIgBARISCgVjYXJkMRgCIAEoBUgBiAEBEhIKBWNhcmQyGAMgASgF",
-            "SAKIAQESEgoFY2FyZDMYBCABKAVIA4gBARISCgVjYXJkNBgFIAEoBUgEiAEB",
-            "EhIKBWNhcmQ1GAYgASgFSAWIAQESEgoFY2FyZDYYByABKAVIBogBAUIJCgdf",
-            "c2VhdGlkQggKBl9jYXJkMUIICgZfY2FyZDJCCAoGX2NhcmQzQggKBl9jYXJk",
-            "NEIICgZfY2FyZDVCCAoGX2NhcmQ2InMKC1Nob3dIYW5kUlNQEhsKBGluZm8Y",
-            "ASADKAsyDS5TaG93SGFuZEluZm8SFQoNd2lubmVyX3NlYXRpZBgCIAMoBRIc",
-            "Cg93aW5fcmF0ZV9lbmFibGUYAyABKAhIAIgBAUISChBfd2luX3JhdGVfZW5h",
-            "YmxlInUKCVN0YXJ0SW5mbxITCgZzZWF0aWQYASABKAVIAIgBARISCgVjaGlw",
-            "cxgCIAEoA0gBiAEBEhkKDGh1bnRlcl9ib251cxgDIAEoA0gCiAEBQgkKB19z",
-            "ZWF0aWRCCAoGX2NoaXBzQg8KDV9odW50ZXJfYm9udXMi8wEKDURlYWxlcklu",
-            "Zm9SU1ASEwoGZGVhbGVyGAEgASgFSACIAQESGAoLc21hbGxfYmxpbmQYAiAB",
-            "KAVIAYgBARIWCgliaWdfYmxpbmQYAyABKAVIAogBARIeCgpzdGFydF9pbmZv",
-            "GAQgAygLMgouU3RhcnRJbmZvEhMKBmdhbWVpZBgFIAEoCUgDiAEBEh0KEGhh",
-            "bmRzX3RvX2JvbWJwb3QYBiABKAVIBIgBAUIJCgdfZGVhbGVyQg4KDF9zbWFs",
-            "bF9ibGluZEIMCgpfYmlnX2JsaW5kQgkKB19nYW1laWRCEwoRX2hhbmRzX3Rv",
-            "X2JvbWJwb3QiUQoPVXNlckxvY2F0aW9uUlNQEhMKBnJvb21pZBgBIAEoBUgA",
-            "iAEBEhMKBmNsdWJpZBgCIAEoBUgBiAEBQgkKB19yb29taWRCCQoHX2NsdWJp",
-            "ZCIuChBUYWJsZUdhbWVPdmVyUlNQEhEKBHR5cGUYASABKAVIAIgBAUIHCgVf",
-            "dHlwZSL/AQoNU2hvd015Q2FyZFJFURIRCgR0eXBlGAEgASgFSACIAQESEgoF",
-            "Y2FyZDEYAiABKAhIAYgBARISCgVjYXJkMhgDIAEoCEgCiAEBEhIKBWNhcmQz",
-            "GAQgASgISAOIAQESEgoFY2FyZDQYBSABKAhIBIgBARITCgZnYW1laWQYBiAB",
-            "KAlIBYgBARISCgVjYXJkNRgHIAEoCEgGiAEBEhIKBWNhcmQ2GAggASgISAeI",
-            "AQFCBwoFX3R5cGVCCAoGX2NhcmQxQggKBl9jYXJkMkIICgZfY2FyZDNCCAoG",
-            "X2NhcmQ0QgkKB19nYW1laWRCCAoGX2NhcmQ1QggKBl9jYXJkNiLjAQoNU2hv",
-            "d015Q2FyZEJSQxITCgZzZWF0SUQYASABKAVIAIgBARISCgVjYXJkMRgCIAEo",
-            "BUgBiAEBEhIKBWNhcmQyGAMgASgFSAKIAQESEgoFY2FyZDMYBCABKAVIA4gB",
-            "ARISCgVjYXJkNBgFIAEoBUgEiAEBEhIKBWNhcmQ1GAYgASgFSAWIAQESEgoF",
-            "Y2FyZDYYByABKAVIBogBAUIJCgdfc2VhdElEQggKBl9jYXJkMUIICgZfY2Fy",
-            "ZDJCCAoGX2NhcmQzQggKBl9jYXJkNEIICgZfY2FyZDVCCAoGX2NhcmQ2IjAK",
-            "EEV4Y2hhbmdlQ2hpcHNSRVESEgoFY2hpcHMYASABKANIAIgBAUIICgZfY2hp",
-            "cHMiMgoQRXhjaGFuZ2VDaGlwc1JTUBITCgZyZXN1bHQYASABKAVIAIgBAUIJ",
-            "CgdfcmVzdWx0IgoKCE1vbmV5UkVRIigKCE1vbmV5UlNQEhIKBW1vZW55GAEg",
-            "ASgDSACIAQFCCAoGX21vZW55IgwKCkRpYW1vbmRSRVEiLgoKRGlhbW9uZFJT",
-            "UBIUCgdkaWFtb25kGAEgASgFSACIAQFCCgoIX2RpYW1vbmQiFgoUQ2x1YlJv",
-            "b21Db3VudGRvd25SRVEiUgoUQ2x1YlJvb21Db3VudGRvd25SU1ASEQoEY29k",
-            "ZRgBIAEoBUgAiAEBEhMKBnJlYXNvbhgCIAEoCUgBiAEBQgcKBV9jb2RlQgkK",
-            "B19yZWFzb24iFgoUQ2x1YlJvb21Db3VudGRvd25CUkMiFQoTQ2x1YlJvb21U",
-            "aW1lTGVmdFJFUSJnChFDbHViUm9vbVRpbWVVcEJSQxIRCgRsZWZ0GAEgASgF",
-            "SACIAQESHwoSYWRkX3Jvb210aW1lX3F1b3RhGAMgASgFSAGIAQFCBwoFX2xl",
-            "ZnRCFQoTX2FkZF9yb29tdGltZV9xdW90YSI2ChJBZGRDbHViUm9vbVRpbWVS",
-            "RVESFAoHbWludXRlcxgBIAEoBUgAiAEBQgoKCF9taW51dGVzIlAKEkFkZENs",
-            "dWJSb29tVGltZVJTUBITCgZyb29taWQYASABKAVIAIgBARIRCgRjb2RlGAIg",
-            "ASgFSAGIAQFCCQoHX3Jvb21pZEIHCgVfY29kZSJUCg9DbHViUm9vbU92ZXJC",
-            "UkMSGQoEaW5mbxgBIAMoCzILLlByb2ZpdEluZm8SFwoKaXNfc3RhcnRlZBgC",
-            "IAEoCEgAiAEBQg0KC19pc19zdGFydGVkIg4KDEhlYXJ0QmVhdFJFUSIOCgxI",
-            "ZWFydEJlYXRSU1AiDwoNVXNlckxvZ291dFJFUSJLCg1Vc2VyTG9nb3V0UlNQ",
-            "EhEKBGNvZGUYASABKAVIAIgBARITCgZyZWFzb24YAiABKAlIAYgBAUIHCgVf",
-            "Y29kZUIJCgdfcmVhc29uImMKDUJ1eURpYW1vbmRSU1ASEQoEY29kZRgBIAEo",
-            "BUgAiAEBEhAKA2FkZBgCIAEoBUgBiAEBEhIKBXRvdGFsGAMgASgFSAKIAQFC",
-            "BwoFX2NvZGVCBgoEX2FkZEIICgZfdG90YWwiDwoNSm9pbkxhZGRlclJFUSIr",
-            "Cg1Kb2luTGFkZGVyUlNQEhEKBGNvZGUYASABKAVIAIgBAUIHCgVfY29kZSIR",
-            "Cg9DYW5jZWxMYWRkZXJSRVEiLQoPQ2FuY2VsTGFkZGVyUlNQEhEKBGNvZGUY",
-            "ASABKAVIAIgBAUIHCgVfY29kZSIwChBXaXRoZHJhd0NoaXBzUkVREhIKBWNo",
-            "aXBzGAEgASgDSACIAQFCCAoGX2NoaXBzIkwKEFdpdGhkcmF3Q2hpcHNSU1AS",
-            "EQoEY29kZRgBIAEoBUgAiAEBEhIKBWNoaXBzGAIgASgDSAGIAQFCBwoFX2Nv",
-            "ZGVCCAoGX2NoaXBzImwKEFdpdGhkcmF3Q2hpcHNCUkMSEQoEY29kZRgBIAEo",
-            "BUgAiAEBEhIKBWNoaXBzGAIgASgDSAGIAQESEwoGc2VhdGlkGAMgASgFSAKI",
-            "AQFCBwoFX2NvZGVCCAoGX2NoaXBzQgkKB19zZWF0aWQiEQoPU2VsZlVzZXJJ",
-            "bmZvUkVRIoAECg5TZWxVc2VySW5mb1JTUBIeCgVicmllZhgBIAEoCzIKLlVz",
-            "ZXJCcmllZkgAiAEBEhQKB2NvdW50cnkYAiABKAlIAYgBARIRCgRtYWlsGAMg",
-            "ASgJSAKIAQESFwoKdmFsaWRfbWFpbBgEIAEoDUgDiAEBEhUKCG5ld191c2Vy",
-            "GAUgASgISASIAQESGAoLc2hvd19ub3ZpY2UYBiABKAhIBYgBARIfChJuZXdf",
-            "dXNlcl9pbl9hX3dlZWsYByABKAhIBogBARIVCghwbGF0Zm9ybRgIIAEoCUgH",
-            "iAEBEhIKBWxldmVsGAkgASgFSAiIAQESJAoXbmV3X3VzZXJfaW5fYV93ZWVr",
-            "X2RheXMYCiABKAVICYgBARIcCg9pc19iaW5kZWRfZW1haWwYCyABKAhICogB",
-            "ARIVCghmcmFtZV9pZBgMIAEoCUgLiAEBQggKBl9icmllZkIKCghfY291bnRy",
-            "eUIHCgVfbWFpbEINCgtfdmFsaWRfbWFpbEILCglfbmV3X3VzZXJCDgoMX3No",
-            "b3dfbm92aWNlQhUKE19uZXdfdXNlcl9pbl9hX3dlZWtCCwoJX3BsYXRmb3Jt",
-            "QggKBl9sZXZlbEIaChhfbmV3X3VzZXJfaW5fYV93ZWVrX2RheXNCEgoQX2lz",
-            "X2JpbmRlZF9lbWFpbEILCglfZnJhbWVfaWQilwEKDVJlcXVzdEF1dGhSU1AS",
-            "HgoFYnJpZWYYASABKAsyCi5Vc2VyQnJpZWZIAIgBARISCgVjaGlwcxgCIAEo",
-            "A0gBiAEBEhEKBHR5cGUYAyABKAVIAogBARIVCghtdHRfdHlwZRgEIAEoBUgD",
-            "iAEBQggKBl9icmllZkIICgZfY2hpcHNCBwoFX3R5cGVCCwoJX210dF90eXBl",
-            "Ii0KD1BQV0NTZW5kTWFpbFJFURIRCgRtYWlsGAEgASgJSACIAQFCBwoFX21h",
-            "aWwiLQoPUFBXQ1NlbmRNYWlsUlNQEhEKBGNvZGUYASABKAVIAIgBAUIHCgVf",
-            "Y29kZSJHCglFcnJvckNvZGUSEQoEY29kZRgBIAEoBUgAiAEBEhMKBnJlYXNv",
-            "bhgCIAEoCUgBiAEBQgcKBV9jb2RlQgkKB19yZWFzb24iEgoQRmlyc3RSZWNo",
-            "YXJnZVJFUSIuChBGaXJzdFJlY2hhcmdlUlNQEhEKBGNvZGUYASABKAVIAIgB",
-            "AUIHCgVfY29kZSr4AQoISGFuZFR5cGUSDQoJVFlQRV9OT05FEAASFgoJVFlQ",
-            "RV9GT0xEEP///////////wESEgoOVFlQRV9ISUdIX0NBUkQQARINCglUWVBF",
-            "X1BBSVIQAhISCg5UWVBFX1RXT19QQUlSUxADEhMKD1RZUEVfVEhSRUVfS0lO",
-            "RBAEEhEKDVRZUEVfU1RSQUlHSFQQBRIOCgpUWVBFX0ZMVVNIEAYSEwoPVFlQ",
-            "RV9GVUxMX0hPVVNFEAcSEgoOVFlQRV9GT1VSX0tJTkQQCBIXChNUWVBFX1NU",
-            "UkFJR0hUX0ZMVVNIEAkSFAoQVFlQRV9ST1lBTF9GTFVTSBAKQhGqAg5UZXhh",
-            "cy5Qcm90b2NvbGIGcHJvdG8z"));
+            "cl9uYW1lQgkKB19nYW1laWQiPQoMU2hvd0hhbmRJbmZvEhMKBnNlYXRpZBgB",
+            "IAEoBUgAiAEBEg0KBWNhcmRzGAIgAygFQgkKB19zZWF0aWQicwoLU2hvd0hh",
+            "bmRSU1ASGwoEaW5mbxgBIAMoCzINLlNob3dIYW5kSW5mbxIVCg13aW5uZXJf",
+            "c2VhdGlkGAIgAygFEhwKD3dpbl9yYXRlX2VuYWJsZRgDIAEoCEgAiAEBQhIK",
+            "EF93aW5fcmF0ZV9lbmFibGUidQoJU3RhcnRJbmZvEhMKBnNlYXRpZBgBIAEo",
+            "BUgAiAEBEhIKBWNoaXBzGAIgASgDSAGIAQESGQoMaHVudGVyX2JvbnVzGAMg",
+            "ASgDSAKIAQFCCQoHX3NlYXRpZEIICgZfY2hpcHNCDwoNX2h1bnRlcl9ib251",
+            "cyLzAQoNRGVhbGVySW5mb1JTUBITCgZkZWFsZXIYASABKAVIAIgBARIYCgtz",
+            "bWFsbF9ibGluZBgCIAEoBUgBiAEBEhYKCWJpZ19ibGluZBgDIAEoBUgCiAEB",
+            "Eh4KCnN0YXJ0X2luZm8YBCADKAsyCi5TdGFydEluZm8SEwoGZ2FtZWlkGAUg",
+            "ASgJSAOIAQESHQoQaGFuZHNfdG9fYm9tYnBvdBgGIAEoBUgEiAEBQgkKB19k",
+            "ZWFsZXJCDgoMX3NtYWxsX2JsaW5kQgwKCl9iaWdfYmxpbmRCCQoHX2dhbWVp",
+            "ZEITChFfaGFuZHNfdG9fYm9tYnBvdCJRCg9Vc2VyTG9jYXRpb25SU1ASEwoG",
+            "cm9vbWlkGAEgASgFSACIAQESEwoGY2x1YmlkGAIgASgFSAGIAQFCCQoHX3Jv",
+            "b21pZEIJCgdfY2x1YmlkIi4KEFRhYmxlR2FtZU92ZXJSU1ASEQoEdHlwZRgB",
+            "IAEoBUgAiAEBQgcKBV90eXBlIv8BCg1TaG93TXlDYXJkUkVREhEKBHR5cGUY",
+            "ASABKAVIAIgBARISCgVjYXJkMRgCIAEoCEgBiAEBEhIKBWNhcmQyGAMgASgI",
+            "SAKIAQESEgoFY2FyZDMYBCABKAhIA4gBARISCgVjYXJkNBgFIAEoCEgEiAEB",
+            "EhMKBmdhbWVpZBgGIAEoCUgFiAEBEhIKBWNhcmQ1GAcgASgISAaIAQESEgoF",
+            "Y2FyZDYYCCABKAhIB4gBAUIHCgVfdHlwZUIICgZfY2FyZDFCCAoGX2NhcmQy",
+            "QggKBl9jYXJkM0IICgZfY2FyZDRCCQoHX2dhbWVpZEIICgZfY2FyZDVCCAoG",
+            "X2NhcmQ2IuMBCg1TaG93TXlDYXJkQlJDEhMKBnNlYXRJRBgBIAEoBUgAiAEB",
+            "EhIKBWNhcmQxGAIgASgFSAGIAQESEgoFY2FyZDIYAyABKAVIAogBARISCgVj",
+            "YXJkMxgEIAEoBUgDiAEBEhIKBWNhcmQ0GAUgASgFSASIAQESEgoFY2FyZDUY",
+            "BiABKAVIBYgBARISCgVjYXJkNhgHIAEoBUgGiAEBQgkKB19zZWF0SURCCAoG",
+            "X2NhcmQxQggKBl9jYXJkMkIICgZfY2FyZDNCCAoGX2NhcmQ0QggKBl9jYXJk",
+            "NUIICgZfY2FyZDYiMAoQRXhjaGFuZ2VDaGlwc1JFURISCgVjaGlwcxgBIAEo",
+            "A0gAiAEBQggKBl9jaGlwcyIyChBFeGNoYW5nZUNoaXBzUlNQEhMKBnJlc3Vs",
+            "dBgBIAEoBUgAiAEBQgkKB19yZXN1bHQiCgoITW9uZXlSRVEiKAoITW9uZXlS",
+            "U1ASEgoFbW9lbnkYASABKANIAIgBAUIICgZfbW9lbnkiDAoKRGlhbW9uZFJF",
+            "USIuCgpEaWFtb25kUlNQEhQKB2RpYW1vbmQYASABKAVIAIgBAUIKCghfZGlh",
+            "bW9uZCIWChRDbHViUm9vbUNvdW50ZG93blJFUSJSChRDbHViUm9vbUNvdW50",
+            "ZG93blJTUBIRCgRjb2RlGAEgASgFSACIAQESEwoGcmVhc29uGAIgASgJSAGI",
+            "AQFCBwoFX2NvZGVCCQoHX3JlYXNvbiIWChRDbHViUm9vbUNvdW50ZG93bkJS",
+            "QyIVChNDbHViUm9vbVRpbWVMZWZ0UkVRImcKEUNsdWJSb29tVGltZVVwQlJD",
+            "EhEKBGxlZnQYASABKAVIAIgBARIfChJhZGRfcm9vbXRpbWVfcXVvdGEYAyAB",
+            "KAVIAYgBAUIHCgVfbGVmdEIVChNfYWRkX3Jvb210aW1lX3F1b3RhIjYKEkFk",
+            "ZENsdWJSb29tVGltZVJFURIUCgdtaW51dGVzGAEgASgFSACIAQFCCgoIX21p",
+            "bnV0ZXMiUAoSQWRkQ2x1YlJvb21UaW1lUlNQEhMKBnJvb21pZBgBIAEoBUgA",
+            "iAEBEhEKBGNvZGUYAiABKAVIAYgBAUIJCgdfcm9vbWlkQgcKBV9jb2RlIlQK",
+            "D0NsdWJSb29tT3ZlckJSQxIZCgRpbmZvGAEgAygLMgsuUHJvZml0SW5mbxIX",
+            "Cgppc19zdGFydGVkGAIgASgISACIAQFCDQoLX2lzX3N0YXJ0ZWQiDgoMSGVh",
+            "cnRCZWF0UkVRIg4KDEhlYXJ0QmVhdFJTUCIPCg1Vc2VyTG9nb3V0UkVRIksK",
+            "DVVzZXJMb2dvdXRSU1ASEQoEY29kZRgBIAEoBUgAiAEBEhMKBnJlYXNvbhgC",
+            "IAEoCUgBiAEBQgcKBV9jb2RlQgkKB19yZWFzb24iYwoNQnV5RGlhbW9uZFJT",
+            "UBIRCgRjb2RlGAEgASgFSACIAQESEAoDYWRkGAIgASgFSAGIAQESEgoFdG90",
+            "YWwYAyABKAVIAogBAUIHCgVfY29kZUIGCgRfYWRkQggKBl90b3RhbCIPCg1K",
+            "b2luTGFkZGVyUkVRIisKDUpvaW5MYWRkZXJSU1ASEQoEY29kZRgBIAEoBUgA",
+            "iAEBQgcKBV9jb2RlIhEKD0NhbmNlbExhZGRlclJFUSItCg9DYW5jZWxMYWRk",
+            "ZXJSU1ASEQoEY29kZRgBIAEoBUgAiAEBQgcKBV9jb2RlIjAKEFdpdGhkcmF3",
+            "Q2hpcHNSRVESEgoFY2hpcHMYASABKANIAIgBAUIICgZfY2hpcHMiTAoQV2l0",
+            "aGRyYXdDaGlwc1JTUBIRCgRjb2RlGAEgASgFSACIAQESEgoFY2hpcHMYAiAB",
+            "KANIAYgBAUIHCgVfY29kZUIICgZfY2hpcHMibAoQV2l0aGRyYXdDaGlwc0JS",
+            "QxIRCgRjb2RlGAEgASgFSACIAQESEgoFY2hpcHMYAiABKANIAYgBARITCgZz",
+            "ZWF0aWQYAyABKAVIAogBAUIHCgVfY29kZUIICgZfY2hpcHNCCQoHX3NlYXRp",
+            "ZCIRCg9TZWxmVXNlckluZm9SRVEigAQKDlNlbFVzZXJJbmZvUlNQEh4KBWJy",
+            "aWVmGAEgASgLMgouVXNlckJyaWVmSACIAQESFAoHY291bnRyeRgCIAEoCUgB",
+            "iAEBEhEKBG1haWwYAyABKAlIAogBARIXCgp2YWxpZF9tYWlsGAQgASgNSAOI",
+            "AQESFQoIbmV3X3VzZXIYBSABKAhIBIgBARIYCgtzaG93X25vdmljZRgGIAEo",
+            "CEgFiAEBEh8KEm5ld191c2VyX2luX2Ffd2VlaxgHIAEoCEgGiAEBEhUKCHBs",
+            "YXRmb3JtGAggASgJSAeIAQESEgoFbGV2ZWwYCSABKAVICIgBARIkChduZXdf",
+            "dXNlcl9pbl9hX3dlZWtfZGF5cxgKIAEoBUgJiAEBEhwKD2lzX2JpbmRlZF9l",
+            "bWFpbBgLIAEoCEgKiAEBEhUKCGZyYW1lX2lkGAwgASgJSAuIAQFCCAoGX2Jy",
+            "aWVmQgoKCF9jb3VudHJ5QgcKBV9tYWlsQg0KC192YWxpZF9tYWlsQgsKCV9u",
+            "ZXdfdXNlckIOCgxfc2hvd19ub3ZpY2VCFQoTX25ld191c2VyX2luX2Ffd2Vl",
+            "a0ILCglfcGxhdGZvcm1CCAoGX2xldmVsQhoKGF9uZXdfdXNlcl9pbl9hX3dl",
+            "ZWtfZGF5c0ISChBfaXNfYmluZGVkX2VtYWlsQgsKCV9mcmFtZV9pZCKXAQoN",
+            "UmVxdXN0QXV0aFJTUBIeCgVicmllZhgBIAEoCzIKLlVzZXJCcmllZkgAiAEB",
+            "EhIKBWNoaXBzGAIgASgDSAGIAQESEQoEdHlwZRgDIAEoBUgCiAEBEhUKCG10",
+            "dF90eXBlGAQgASgFSAOIAQFCCAoGX2JyaWVmQggKBl9jaGlwc0IHCgVfdHlw",
+            "ZUILCglfbXR0X3R5cGUiLQoPUFBXQ1NlbmRNYWlsUkVREhEKBG1haWwYASAB",
+            "KAlIAIgBAUIHCgVfbWFpbCItCg9QUFdDU2VuZE1haWxSU1ASEQoEY29kZRgB",
+            "IAEoBUgAiAEBQgcKBV9jb2RlIkcKCUVycm9yQ29kZRIRCgRjb2RlGAEgASgF",
+            "SACIAQESEwoGcmVhc29uGAIgASgJSAGIAQFCBwoFX2NvZGVCCQoHX3JlYXNv",
+            "biISChBGaXJzdFJlY2hhcmdlUkVRIi4KEEZpcnN0UmVjaGFyZ2VSU1ASEQoE",
+            "Y29kZRgBIAEoBUgAiAEBQgcKBV9jb2RlKvgBCghIYW5kVHlwZRINCglUWVBF",
+            "X05PTkUQABIWCglUWVBFX0ZPTEQQ////////////ARISCg5UWVBFX0hJR0hf",
+            "Q0FSRBABEg0KCVRZUEVfUEFJUhACEhIKDlRZUEVfVFdPX1BBSVJTEAMSEwoP",
+            "VFlQRV9USFJFRV9LSU5EEAQSEQoNVFlQRV9TVFJBSUdIVBAFEg4KClRZUEVf",
+            "RkxVU0gQBhITCg9UWVBFX0ZVTExfSE9VU0UQBxISCg5UWVBFX0ZPVVJfS0lO",
+            "RBAIEhcKE1RZUEVfU1RSQUlHSFRfRkxVU0gQCRIUChBUWVBFX1JPWUFMX0ZM",
+            "VVNIEApCGloHL3BicHBnb6oCDlRleGFzLlByb3RvY29sYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, global::Texas.Protocol.PreBase1Reflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.HandType), }, null, new pbr::GeneratedClrTypeInfo[] {
@@ -155,7 +151,7 @@ namespace Texas.Protocol {
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.WinnerRSP), global::Texas.Protocol.WinnerRSP.Parser, new[]{ "Winner", "Profit", "Rabbit", "Ko", "CurrentProfit" }, new[]{ "Rabbit", "Ko" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.ShowRabbitCardREQ), global::Texas.Protocol.ShowRabbitCardREQ.Parser, new[]{ "Uid" }, new[]{ "Uid" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.ShowRabbitCardRSP), global::Texas.Protocol.ShowRabbitCardRSP.Parser, new[]{ "ShowerUid", "ShowerName", "Gameid" }, new[]{ "ShowerUid", "ShowerName", "Gameid" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.ShowHandInfo), global::Texas.Protocol.ShowHandInfo.Parser, new[]{ "Seatid", "Card1", "Card2", "Card3", "Card4", "Card5", "Card6" }, new[]{ "Seatid", "Card1", "Card2", "Card3", "Card4", "Card5", "Card6" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.ShowHandInfo), global::Texas.Protocol.ShowHandInfo.Parser, new[]{ "Seatid", "Cards" }, new[]{ "Seatid" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.ShowHandRSP), global::Texas.Protocol.ShowHandRSP.Parser, new[]{ "Info", "WinnerSeatid", "WinRateEnable" }, new[]{ "WinRateEnable" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.StartInfo), global::Texas.Protocol.StartInfo.Parser, new[]{ "Seatid", "Chips", "HunterBonus" }, new[]{ "Seatid", "Chips", "HunterBonus" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Texas.Protocol.DealerInfoRSP), global::Texas.Protocol.DealerInfoRSP.Parser, new[]{ "Dealer", "SmallBlind", "BigBlind", "StartInfo", "Gameid", "HandsToBombpot" }, new[]{ "Dealer", "SmallBlind", "BigBlind", "Gameid", "HandsToBombpot" }, null, null, null),
@@ -3151,12 +3147,7 @@ namespace Texas.Protocol {
     public ShowHandInfo(ShowHandInfo other) : this() {
       _hasBits0 = other._hasBits0;
       seatid_ = other.seatid_;
-      card1_ = other.card1_;
-      card2_ = other.card2_;
-      card3_ = other.card3_;
-      card4_ = other.card4_;
-      card5_ = other.card5_;
-      card6_ = other.card6_;
+      cards_ = other.cards_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -3196,166 +3187,15 @@ namespace Texas.Protocol {
       _hasBits0 &= ~1;
     }
 
-    /// <summary>Field number for the "card1" field.</summary>
-    public const int Card1FieldNumber = 2;
-    private readonly static int Card1DefaultValue = 0;
-
-    private int card1_;
+    /// <summary>Field number for the "cards" field.</summary>
+    public const int CardsFieldNumber = 2;
+    private static readonly pb::FieldCodec<int> _repeated_cards_codec
+        = pb::FieldCodec.ForInt32(18);
+    private readonly pbc::RepeatedField<int> cards_ = new pbc::RepeatedField<int>();
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int Card1 {
-      get { if ((_hasBits0 & 2) != 0) { return card1_; } else { return Card1DefaultValue; } }
-      set {
-        _hasBits0 |= 2;
-        card1_ = value;
-      }
-    }
-    /// <summary>Gets whether the "card1" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasCard1 {
-      get { return (_hasBits0 & 2) != 0; }
-    }
-    /// <summary>Clears the value of the "card1" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearCard1() {
-      _hasBits0 &= ~2;
-    }
-
-    /// <summary>Field number for the "card2" field.</summary>
-    public const int Card2FieldNumber = 3;
-    private readonly static int Card2DefaultValue = 0;
-
-    private int card2_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int Card2 {
-      get { if ((_hasBits0 & 4) != 0) { return card2_; } else { return Card2DefaultValue; } }
-      set {
-        _hasBits0 |= 4;
-        card2_ = value;
-      }
-    }
-    /// <summary>Gets whether the "card2" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasCard2 {
-      get { return (_hasBits0 & 4) != 0; }
-    }
-    /// <summary>Clears the value of the "card2" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearCard2() {
-      _hasBits0 &= ~4;
-    }
-
-    /// <summary>Field number for the "card3" field.</summary>
-    public const int Card3FieldNumber = 4;
-    private readonly static int Card3DefaultValue = 0;
-
-    private int card3_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int Card3 {
-      get { if ((_hasBits0 & 8) != 0) { return card3_; } else { return Card3DefaultValue; } }
-      set {
-        _hasBits0 |= 8;
-        card3_ = value;
-      }
-    }
-    /// <summary>Gets whether the "card3" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasCard3 {
-      get { return (_hasBits0 & 8) != 0; }
-    }
-    /// <summary>Clears the value of the "card3" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearCard3() {
-      _hasBits0 &= ~8;
-    }
-
-    /// <summary>Field number for the "card4" field.</summary>
-    public const int Card4FieldNumber = 5;
-    private readonly static int Card4DefaultValue = 0;
-
-    private int card4_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int Card4 {
-      get { if ((_hasBits0 & 16) != 0) { return card4_; } else { return Card4DefaultValue; } }
-      set {
-        _hasBits0 |= 16;
-        card4_ = value;
-      }
-    }
-    /// <summary>Gets whether the "card4" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasCard4 {
-      get { return (_hasBits0 & 16) != 0; }
-    }
-    /// <summary>Clears the value of the "card4" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearCard4() {
-      _hasBits0 &= ~16;
-    }
-
-    /// <summary>Field number for the "card5" field.</summary>
-    public const int Card5FieldNumber = 6;
-    private readonly static int Card5DefaultValue = 0;
-
-    private int card5_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int Card5 {
-      get { if ((_hasBits0 & 32) != 0) { return card5_; } else { return Card5DefaultValue; } }
-      set {
-        _hasBits0 |= 32;
-        card5_ = value;
-      }
-    }
-    /// <summary>Gets whether the "card5" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasCard5 {
-      get { return (_hasBits0 & 32) != 0; }
-    }
-    /// <summary>Clears the value of the "card5" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearCard5() {
-      _hasBits0 &= ~32;
-    }
-
-    /// <summary>Field number for the "card6" field.</summary>
-    public const int Card6FieldNumber = 7;
-    private readonly static int Card6DefaultValue = 0;
-
-    private int card6_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int Card6 {
-      get { if ((_hasBits0 & 64) != 0) { return card6_; } else { return Card6DefaultValue; } }
-      set {
-        _hasBits0 |= 64;
-        card6_ = value;
-      }
-    }
-    /// <summary>Gets whether the "card6" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasCard6 {
-      get { return (_hasBits0 & 64) != 0; }
-    }
-    /// <summary>Clears the value of the "card6" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearCard6() {
-      _hasBits0 &= ~64;
+    public pbc::RepeatedField<int> Cards {
+      get { return cards_; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3374,12 +3214,7 @@ namespace Texas.Protocol {
         return true;
       }
       if (Seatid != other.Seatid) return false;
-      if (Card1 != other.Card1) return false;
-      if (Card2 != other.Card2) return false;
-      if (Card3 != other.Card3) return false;
-      if (Card4 != other.Card4) return false;
-      if (Card5 != other.Card5) return false;
-      if (Card6 != other.Card6) return false;
+      if(!cards_.Equals(other.cards_)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -3388,12 +3223,7 @@ namespace Texas.Protocol {
     public override int GetHashCode() {
       int hash = 1;
       if (HasSeatid) hash ^= Seatid.GetHashCode();
-      if (HasCard1) hash ^= Card1.GetHashCode();
-      if (HasCard2) hash ^= Card2.GetHashCode();
-      if (HasCard3) hash ^= Card3.GetHashCode();
-      if (HasCard4) hash ^= Card4.GetHashCode();
-      if (HasCard5) hash ^= Card5.GetHashCode();
-      if (HasCard6) hash ^= Card6.GetHashCode();
+      hash ^= cards_.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -3416,30 +3246,7 @@ namespace Texas.Protocol {
         output.WriteRawTag(8);
         output.WriteInt32(Seatid);
       }
-      if (HasCard1) {
-        output.WriteRawTag(16);
-        output.WriteInt32(Card1);
-      }
-      if (HasCard2) {
-        output.WriteRawTag(24);
-        output.WriteInt32(Card2);
-      }
-      if (HasCard3) {
-        output.WriteRawTag(32);
-        output.WriteInt32(Card3);
-      }
-      if (HasCard4) {
-        output.WriteRawTag(40);
-        output.WriteInt32(Card4);
-      }
-      if (HasCard5) {
-        output.WriteRawTag(48);
-        output.WriteInt32(Card5);
-      }
-      if (HasCard6) {
-        output.WriteRawTag(56);
-        output.WriteInt32(Card6);
-      }
+      cards_.WriteTo(output, _repeated_cards_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -3454,30 +3261,7 @@ namespace Texas.Protocol {
         output.WriteRawTag(8);
         output.WriteInt32(Seatid);
       }
-      if (HasCard1) {
-        output.WriteRawTag(16);
-        output.WriteInt32(Card1);
-      }
-      if (HasCard2) {
-        output.WriteRawTag(24);
-        output.WriteInt32(Card2);
-      }
-      if (HasCard3) {
-        output.WriteRawTag(32);
-        output.WriteInt32(Card3);
-      }
-      if (HasCard4) {
-        output.WriteRawTag(40);
-        output.WriteInt32(Card4);
-      }
-      if (HasCard5) {
-        output.WriteRawTag(48);
-        output.WriteInt32(Card5);
-      }
-      if (HasCard6) {
-        output.WriteRawTag(56);
-        output.WriteInt32(Card6);
-      }
+      cards_.WriteTo(ref output, _repeated_cards_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -3491,24 +3275,7 @@ namespace Texas.Protocol {
       if (HasSeatid) {
         size += 1 + pb::CodedOutputStream.ComputeInt32Size(Seatid);
       }
-      if (HasCard1) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Card1);
-      }
-      if (HasCard2) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Card2);
-      }
-      if (HasCard3) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Card3);
-      }
-      if (HasCard4) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Card4);
-      }
-      if (HasCard5) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Card5);
-      }
-      if (HasCard6) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Card6);
-      }
+      size += cards_.CalculateSize(_repeated_cards_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -3524,24 +3291,7 @@ namespace Texas.Protocol {
       if (other.HasSeatid) {
         Seatid = other.Seatid;
       }
-      if (other.HasCard1) {
-        Card1 = other.Card1;
-      }
-      if (other.HasCard2) {
-        Card2 = other.Card2;
-      }
-      if (other.HasCard3) {
-        Card3 = other.Card3;
-      }
-      if (other.HasCard4) {
-        Card4 = other.Card4;
-      }
-      if (other.HasCard5) {
-        Card5 = other.Card5;
-      }
-      if (other.HasCard6) {
-        Card6 = other.Card6;
-      }
+      cards_.Add(other.cards_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -3561,28 +3311,9 @@ namespace Texas.Protocol {
             Seatid = input.ReadInt32();
             break;
           }
+          case 18:
           case 16: {
-            Card1 = input.ReadInt32();
-            break;
-          }
-          case 24: {
-            Card2 = input.ReadInt32();
-            break;
-          }
-          case 32: {
-            Card3 = input.ReadInt32();
-            break;
-          }
-          case 40: {
-            Card4 = input.ReadInt32();
-            break;
-          }
-          case 48: {
-            Card5 = input.ReadInt32();
-            break;
-          }
-          case 56: {
-            Card6 = input.ReadInt32();
+            cards_.AddEntriesFrom(input, _repeated_cards_codec);
             break;
           }
         }
@@ -3604,28 +3335,9 @@ namespace Texas.Protocol {
             Seatid = input.ReadInt32();
             break;
           }
+          case 18:
           case 16: {
-            Card1 = input.ReadInt32();
-            break;
-          }
-          case 24: {
-            Card2 = input.ReadInt32();
-            break;
-          }
-          case 32: {
-            Card3 = input.ReadInt32();
-            break;
-          }
-          case 40: {
-            Card4 = input.ReadInt32();
-            break;
-          }
-          case 48: {
-            Card5 = input.ReadInt32();
-            break;
-          }
-          case 56: {
-            Card6 = input.ReadInt32();
+            cards_.AddEntriesFrom(ref input, _repeated_cards_codec);
             break;
           }
         }

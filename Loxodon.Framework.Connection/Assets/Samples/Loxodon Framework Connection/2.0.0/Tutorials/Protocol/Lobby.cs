@@ -90,8 +90,8 @@ namespace Texas.Protocol {
             "RV9CT1hfU1RBVFVTX1JFV0FSRBADKoIBChRGaXJzdFRhYmxlUmV3YXJkVHlw",
             "ZRIgChxGSVJTVF9UQUJMRV9SRVdBUkRfVFlQRV9OT05FEAASIAocRklSU1Rf",
             "VEFCTEVfUkVXQVJEX1RZUEVfR09MRBABEiYKIkZJUlNUX1RBQkxFX1JFV0FS",
-            "RF9UWVBFX1NIQVJLX1BBQ0sQAkIRqgIOVGV4YXMuUHJvdG9jb2xiBnByb3Rv",
-            "Mw=="));
+            "RF9UWVBFX1NIQVJLX1BBQ0sQAkIaWgcvcGJwcGdvqgIOVGV4YXMuUHJvdG9j",
+            "b2xiBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.CountDownTableBoxStatus), typeof(global::Texas.Protocol.FirstTableRewardType), }, null, new pbr::GeneratedClrTypeInfo[] {

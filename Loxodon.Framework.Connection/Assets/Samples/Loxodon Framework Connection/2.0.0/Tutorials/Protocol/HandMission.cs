@@ -144,8 +144,8 @@ namespace Texas.Protocol {
             "cGxlX2luZm8qVwoSSGFuZE1pc3Npb25zU3RhdHVzEgwKCE9OX0dPSU5HEAAS",
             "CQoFQ0xBSU0QARIMCghDQU5DRUxFRBACEg0KCUNPTVBMRVRFRBADEgsKB1NU",
             "T1BQRUQQBCpBChZIYW5kTWlzc2lvblJld2FyZFR5cGVzEgwKCFBQX0NISVBT",
-            "EAASDQoJTFVDS1lEUkFXEAESCgoGT1RIRVJTEAJCEaoCDlRleGFzLlByb3Rv",
-            "Y29sYgZwcm90bzM="));
+            "EAASDQoJTFVDS1lEUkFXEAESCgoGT1RIRVJTEAJCGloHL3BicHBnb6oCDlRl",
+            "eGFzLlByb3RvY29sYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.Pb2Reflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.HandMissionsStatus), typeof(global::Texas.Protocol.HandMissionRewardTypes), }, null, new pbr::GeneratedClrTypeInfo[] {

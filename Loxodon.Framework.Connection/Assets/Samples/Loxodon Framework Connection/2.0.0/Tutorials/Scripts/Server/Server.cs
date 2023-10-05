@@ -159,8 +159,53 @@ namespace Loxodon.Framework.Examples
                                 switch (request.CommandID)
                                 {
                                     case 1:
+                                        UserBrief p1 = new UserBrief();
+                                        p1.Uid = 123;
+                                        p1.Name = "mmm";
+                                        p1.IconUrl = "001";
+                                        SeatStatus ss1 = new SeatStatus();
+                                        ss1.Seatid = 2;
+                                        ss1.Player = p1;
+                                        ss1.HandChips = 560;
+                                        ss1.DestopChips = 780;
+                                        ss1.HasCard = true;
+
+                                        UserBrief p2 = new UserBrief();
+                                        p2.Uid = 2345;
+                                        p2.Name = "kkk";
+                                        p2.IconUrl = "001";
+                                        SeatStatus ss2 = new SeatStatus();
+                                        ss2.Seatid = 5;
+                                        ss2.Player = p2;
+                                        ss2.HandChips = 325;
+                                        ss2.DestopChips = 885;
+                                        ss2.HasCard = false;
+
+                                        TableStatus table = new TableStatus();
+                                        table.Pool.Add(300);
+                                        table.Gameid = "test table";
+                                        table.CurBlind = 2000;
+                                        table.Seat.Add(ss1);
+                                        table.Seat.Add(ss2);
+                                        table.DIdx = 5;
+
+                                        RoomInfo roomInfo = new RoomInfo();
+                                        roomInfo.ActionTime = 10000;
+                                        roomInfo.Blind = 400;
+                                        roomInfo.Ante = 300;
+
+                                        PlayingStatus ps = new PlayingStatus();
+                                        ps.Cards.Add(1);
+                                        ps.Cards.Add(3);
+                                        ps.Cards.Add(50);
+                                        ps.ActionSeatid = 2;
+                                        ps.ActionTime = 5000;
+
                                         EnterRoomRSP rsp = new EnterRoomRSP();
                                         rsp.Roomid = 100;
+                                        rsp.TableStatus = table;
+                                        rsp.PlayingStatus = ps;
+                                        rsp.RoomInfo = roomInfo;
 
                                         byte[] bytes = null;
                                         using (MemoryStream rspStream = new MemoryStream())

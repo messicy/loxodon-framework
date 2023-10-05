@@ -147,8 +147,8 @@ namespace Texas.Protocol {
             "QUdQQUNLX0lOU0VSVF9GTE9XX0ZBSUxVUkUQCBIhCh1CQUdQQUNLX0NBTkNF",
             "TF9USUNLRVRfRkFJTFVSRRAJEhcKE0JBR1BBQ0tfREVMX0ZBSUxVUkUQCipT",
             "ChZOZXdUaWNrZXRCdWxsZXRPcHRUeXBlEh0KGU5FV1RJQ0tFVF9CVUxMRVRf",
-            "VVNFX0lUTUUQABIaChZORVdUSUNLRVRfQlVMTEVUX0NMT1NFEAFCEaoCDlRl",
-            "eGFzLlByb3RvY29sYgZwcm90bzM="));
+            "VVNFX0lUTUUQABIaChZORVdUSUNLRVRfQlVMTEVUX0NMT1NFEAFCGloHL3Bi",
+            "cHBnb6oCDlRleGFzLlByb3RvY29sYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.ClubBagpackOperateType), typeof(global::Texas.Protocol.ClubBackpackOperateSource), typeof(global::Texas.Protocol.ClubBagpackOperateCode), typeof(global::Texas.Protocol.NewTicketBulletOptType), }, null, new pbr::GeneratedClrTypeInfo[] {

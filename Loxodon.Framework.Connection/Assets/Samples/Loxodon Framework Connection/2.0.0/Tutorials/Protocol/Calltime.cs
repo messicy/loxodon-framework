@@ -68,7 +68,8 @@ namespace Texas.Protocol {
             "CgxCT09LX0VSUl9HUFMQ+P//////////ARIYCgtCT09LX0VSUl9JUBD3////",
             "//////8BEiEKFEJPT0tfRVJSX0dQU19JTlZBTElEEPb//////////wESHwoS",
             "Qk9PS19FUlJfUk9PTV9PVkVSEPX//////////wESHwoSQk9PS19FUlJfUk9P",
-            "TV9GVUxMEPT//////////wFCEaoCDlRleGFzLlByb3RvY29sYgZwcm90bzM="));
+            "TV9GVUxMEPT//////////wFCGloHL3BicHBnb6oCDlRleGFzLlByb3RvY29s",
+            "YgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.BaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.CallTimeCode), typeof(global::Texas.Protocol.CallTimeConfirmCode), typeof(global::Texas.Protocol.CallTimeEnterRoomConfirmStatus), typeof(global::Texas.Protocol.BookSeatCode), }, null, new pbr::GeneratedClrTypeInfo[] {

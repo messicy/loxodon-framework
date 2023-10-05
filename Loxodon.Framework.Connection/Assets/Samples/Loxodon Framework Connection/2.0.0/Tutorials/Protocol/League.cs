@@ -228,8 +228,8 @@ public static partial class LeagueReflection {
           "TElORF9MSU1JVF9UWVBFX05MSF9QTE81EBASFwoTQkxJTkRfTElNSVRfVFlQ",
           "RV9UUBAREh8KG0JMSU5EX0xJTUlUX1RZUEVfTFVDS1lfRFJBVxASEhoKFkJM",
           "SU5EX0xJTUlUX1RZUEVfQ09MT1IQExIfChtCTElORF9MSU1JVF9UWVBFX0ZM",
-          "QVNIX1BMTzUQFBIcChhCTElORF9MSU1JVF9UWVBFX1RPTkdJVFMQFUIGWgQu",
-          "L3Bi"));
+          "QVNIX1BMTzUQFBIcChhCTElORF9MSU1JVF9UWVBFX1RPTkdJVFMQFUIJWgcv",
+          "cGJwcGdv"));
     descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
         new pbr::FileDescriptor[] { global::Texas.Protocol.BaseReflection.Descriptor, global::Texas.Protocol.PreBaseReflection.Descriptor, },
         new pbr::GeneratedClrTypeInfo(new[] {typeof(global::PPSROperations), typeof(global::SuperLeagueOperations), typeof(global::BlindLimitType), }, null, new pbr::GeneratedClrTypeInfo[] {

@@ -238,8 +238,8 @@ namespace Texas.Protocol {
             "CQoHX2NsdWJpZEILCglfbGVhZ3VlaWRCEQoPX3N1cGVyX2xlYWd1ZWlkQgcK",
             "BV90eXBlInMKFkNoaXBTdG9ybVJlY29yZExpc3RSU1ASEQoEdHlwZRgBIAEo",
             "BUgAiAEBEhEKBGNvZGUYAiABKAVIAYgBARIhCgdjb25maWdzGAMgAygLMhAu",
-            "Q2hpcFN0b3JtQ29uZmlnQgcKBV90eXBlQgcKBV9jb2RlQhGqAg5UZXhhcy5Q",
-            "cm90b2NvbGIGcHJvdG8z"));
+            "Q2hpcFN0b3JtQ29uZmlnQgcKBV90eXBlQgcKBV9jb2RlQhpaBy9wYnBwZ2+q",
+            "Ag5UZXhhcy5Qcm90b2NvbGIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.Club2Reflection.Descriptor, global::Texas.Protocol.Club3Reflection.Descriptor, global::Texas.Protocol.PreBaseReflection.Descriptor, global::Texas.Protocol.SngReflection.Descriptor, global::Texas.Protocol.Mtt1Reflection.Descriptor, global::Texas.Protocol.PineReflection.Descriptor, global::Texas.Protocol.CreateClubRoomReflection.Descriptor, global::Texas.Protocol.TpReflection.Descriptor, global::Texas.Protocol.PusoyReflection.Descriptor, global::Texas.Protocol.ColorgameReflection.Descriptor, global::Texas.Protocol.TongitsReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {

@@ -92,8 +92,8 @@ namespace Texas.Protocol {
             "aEZvcnVtV2F0Y2hWaWRlb1Jld2FyZFJTUBIRCgRjb2RlGAEgASgFSACIAQFC",
             "BwoFX2NvZGUiPgocVXBkYXRlRm9ydW1XYXRjaFZpZGVvVGFza1JTUBITCgZz",
             "dGF0dXMYASABKAVIAIgBAUIJCgdfc3RhdHVzKjAKCUNhcmRDb2xvchIRCg1E",
-            "RUZBVUxUX0NPTE9SEAASEAoMRk9VUl9DT0xPUl8xEAFCEaoCDlRleGFzLlBy",
-            "b3RvY29sYgZwcm90bzM="));
+            "RUZBVUxUX0NPTE9SEAASEAoMRk9VUl9DT0xPUl8xEAFCGloHL3BicHBnb6oC",
+            "DlRleGFzLlByb3RvY29sYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.CardColor), }, null, new pbr::GeneratedClrTypeInfo[] {

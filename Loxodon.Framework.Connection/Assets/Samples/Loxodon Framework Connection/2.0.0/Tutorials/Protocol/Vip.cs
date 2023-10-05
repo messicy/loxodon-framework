@@ -113,7 +113,7 @@ namespace Texas.Protocol {
             "TU9ORF9OT1RfRU5PVUdIEP///////////wESJwoaVklQX1JFVF9DT0RFX1BB",
             "UkFNX0lOVkFMSUQQ/v//////////ARIgChNWSVBfUkVUX0NPREVfRkFJTEVE",
             "EP3//////////wESJAoXVklQX1JFVF9DT0RFX0FSRUFEWV9HRVQQ/P//////",
-            "////AUIRqgIOVGV4YXMuUHJvdG9jb2xiBnByb3RvMw=="));
+            "////AUIaWgcvcGJwcGdvqgIOVGV4YXMuUHJvdG9jb2xiBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.VIPLevel), typeof(global::Texas.Protocol.VIPDuration), typeof(global::Texas.Protocol.VIPPermType), typeof(global::Texas.Protocol.TrialVipNo), typeof(global::Texas.Protocol.VipCardType), typeof(global::Texas.Protocol.VIPRetCode), }, null, new pbr::GeneratedClrTypeInfo[] {

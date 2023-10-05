@@ -137,8 +137,8 @@ namespace Texas.Protocol {
             "X05FVxACKqkBChRVc2VyUGljdHVyZUZyYW1lVHlwZRIgChxVU0VSX1BJQ1RV",
             "UkVfRlJBTUVfVFlQRV9OT05FEAASJAogVVNFUl9QSUNUVVJFX0ZSQU1FX1RZ",
             "UEVfVklQX0NBUkQQARIkCiBVU0VSX1BJQ1RVUkVfRlJBTUVfVFlQRV9BQ1RJ",
-            "VklUWRACEiMKH1VTRVJfUElDVFVSRV9GUkFNRV9UWVBFX0RFRkFVTFQQA0IR",
-            "qgIOVGV4YXMuUHJvdG9jb2xiBnByb3RvMw=="));
+            "VklUWRACEiMKH1VTRVJfUElDVFVSRV9GUkFNRV9UWVBFX0RFRkFVTFQQA0Ia",
+            "WgcvcGJwcGdvqgIOVGV4YXMuUHJvdG9jb2xiBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.BaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.MarkColors), typeof(global::Texas.Protocol.UserQueryPictureFrameType), typeof(global::Texas.Protocol.UserPictureFrameType), }, null, new pbr::GeneratedClrTypeInfo[] {

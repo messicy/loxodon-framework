@@ -210,7 +210,8 @@ namespace Texas.Protocol {
             "bG93VHlwZV9IYW5kTWlzc2lvbl9QUF9DaGlwc19SZXdhcmQQIhIpCiVGbG93",
             "VHlwZV9IYW5kTWlzc2lvbl9MdWNreURyYXdfUmV3YXJkECMqQAoQUFBQb2tl",
             "clJhbmdlVHlwZRIXChNSQU5HRV9UWVBFX1BMQVRGT1JNEAASEwoPUkFOR0Vf",
-            "VFlQRV9DTFVCEAFCEaoCDlRleGFzLlByb3RvY29sYgZwcm90bzM="));
+            "VFlQRV9DTFVCEAFCGloHL3BicHBnb6oCDlRleGFzLlByb3RvY29sYgZwcm90",
+            "bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.ActionType), typeof(global::Texas.Protocol.TpActionType), typeof(global::Texas.Protocol.PreActionType), typeof(global::Texas.Protocol.RoomType), typeof(global::Texas.Protocol.RoomMode), typeof(global::Texas.Protocol.GameMode), typeof(global::Texas.Protocol.ClubCashRoomType), typeof(global::Texas.Protocol.RoundStage), typeof(global::Texas.Protocol.ValueType), typeof(global::Texas.Protocol.PPCurrency), typeof(global::Texas.Protocol.SignupType), typeof(global::Texas.Protocol.OfficialDescType), typeof(global::Texas.Protocol.OfficialLocation), typeof(global::Texas.Protocol.OfficialTag), typeof(global::Texas.Protocol.OfficialPopup), typeof(global::Texas.Protocol.UserRoomAction), typeof(global::Texas.Protocol.BankerType), typeof(global::Texas.Protocol.MttRewardPercentType), typeof(global::Texas.Protocol.MttRewardMode), typeof(global::Texas.Protocol.GameSetPlayStatus), typeof(global::Texas.Protocol.UserPlayStatus), typeof(global::Texas.Protocol.ClubBagpackType), typeof(global::Texas.Protocol.AutoDelayRoomOverTimes), typeof(global::Texas.Protocol.ClubChipsFlowType), typeof(global::Texas.Protocol.PPPokerRangeType), }, null, new pbr::GeneratedClrTypeInfo[] {

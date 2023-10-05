@@ -222,8 +222,8 @@ namespace Texas.Protocol {
             "Tk9ORRAAEiQKIE9QVF9KQUNLUE9UX0NBUkRfVFlQRV9GVUxMX0hPVVNFEAES",
             "IwofT1BUX0pBQ0tQT1RfQ0FSRF9UWVBFX0ZPVVJfS0lORBACEigKJE9QVF9K",
             "QUNLUE9UX0NBUkRfVFlQRV9TVFJBSUdIVF9GTFVTSBADEiUKIU9QVF9KQUNL",
-            "UE9UX0NBUkRfVFlQRV9ST1lBTF9GTFVTSBAEQhGqAg5UZXhhcy5Qcm90b2Nv",
-            "bGIGcHJvdG8z"));
+            "UE9UX0NBUkRfVFlQRV9ST1lBTF9GTFVTSBAEQhpaBy9wYnBwZ2+qAg5UZXhh",
+            "cy5Qcm90b2NvbGIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Texas.Protocol.BaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Texas.Protocol.JackPotRoomType), typeof(global::Texas.Protocol.TableGameType), typeof(global::Texas.Protocol.NewJackPotRewardType), typeof(global::Texas.Protocol.OptTableGameType), typeof(global::Texas.Protocol.OptJackPotRewardType), typeof(global::Texas.Protocol.OptJackPotCardType), }, null, new pbr::GeneratedClrTypeInfo[] {
